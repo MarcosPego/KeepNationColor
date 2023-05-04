@@ -5,6 +5,9 @@ country_decisions = {
 			AND = { 
 				ai = no
 				NOT = { has_global_flag = ai_change_color_chosen }
+				NOT = { 
+					is_year = 1447
+				}
 			}
 
 		} 
