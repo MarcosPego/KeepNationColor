@@ -1,0 +1,21 @@
+namespace = ai_change_color
+country_event = {
+	id = ai_change_color_event.1
+	title = ai_change_color_event.1.t
+	picture = ECONOMY_eventPicture
+	desc = ai_change_color_event.1.d
+	
+	fire_only_once = yes
+
+	
+	#AI will change
+	option = {
+		name = ai_change_color_event.1.a
+		set_global_flag = ai_will_change_color
+	}
+
+	#AI will NOT change
+	option = {
+		name = ai_change_color_event.1.b
+	}
+}
