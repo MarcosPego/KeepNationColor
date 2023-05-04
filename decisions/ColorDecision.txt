@@ -1,9 +1,8 @@
 country_decisions = {
-	change_back_color_nation = {
-		major = yes
-		potential = {
-			OR = {
-			
+    change_back_color_nation = {
+        major = yes
+        potential = {
+            OR = {
 AND = {
  NOT = { tag = AAC }
  was_tag = AAC
@@ -3884,6811 +3883,6916 @@ AND = {
  NOT = { tag = ZNI }
  was_tag = ZNI
 }
-
-
-			}
-			NOT = { has_country_flag = has_overriden_color_flag }
-		}
-		allow = {
-		}
-		effect = {
-
+AND = {
+ NOT = { tag = D00 }
+ was_tag = D00
+}
+AND = {
+ NOT = { tag = D01 }
+ was_tag = D01
+}
+AND = {
+ NOT = { tag = D02 }
+ was_tag = D02
+}
+AND = {
+ NOT = { tag = D03 }
+ was_tag = D03
+}
+AND = {
+ NOT = { tag = D04 }
+ was_tag = D04
+}
+AND = {
+ NOT = { tag = D05 }
+ was_tag = D05
+}
+AND = {
+ NOT = { tag = D06 }
+ was_tag = D06
+}
+AND = {
+ NOT = { tag = D07 }
+ was_tag = D07
+}
+AND = {
+ NOT = { tag = D08 }
+ was_tag = D08
+}
+AND = {
+ NOT = { tag = D09 }
+ was_tag = D09
+}
+            }
+            NOT = { has_country_flag = has_overriden_color_flag }
+        }
+        allow = {
+        }
+        effect = {
 if = {
   limit = { was_tag = AAC }
   change_country_color = {
-      color = { 157  51  167 }
+      country = AAC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ABE }
   change_country_color = {
-      color = { 49 115 90 }
+      country = ABE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ABI }
   change_country_color = {
-      color = { 18  139  228 }
+      country = ABI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ACO }
   change_country_color = {
-      color = { 114 145 117 }
+      country = ACO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ADA }
   change_country_color = {
-      color = { 145  70  130 }
+      country = ADA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ADE }
   change_country_color = {
-      color = { 233 155 81 }
+      country = ADE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AFA }
   change_country_color = {
-      color = { 125  100  220 }
+      country = AFA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AFG }
   change_country_color = {
-      color = { 102  128  52 } 
+      country = AFG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AHM }
   change_country_color = {
-      color = { 74  87  138 }
+      country = AHM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ANU }
   change_country_color = {
-      color = { 201 197 124 }
+      country = ANU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AIR }
   change_country_color = {
-      color = { 30  31  162 }
+      country = AIR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AJU }
   change_country_color = {
-      #color = { 53 188 0 }
+      country = AJU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AKM }
   change_country_color = {
-      color = { 137  195   235 }
+      country = AKM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AKK }
   change_country_color = {
-      color = {  31 49 138 }
+      country = AKK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AKS }
   change_country_color = {
-      color = { 110  120  191 }
+      country = AKS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ALA }
   change_country_color = {
-      color = { 185  215  255 }
+      country = ALA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ALB }
   change_country_color = {
-      color = { 181  0  20 }
+      country = ALB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ALE }
   change_country_color = {
-      color = { 162 116 225 }
+      country = ALE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ALG }
   change_country_color = {
-      color = { 230  225  110 } 
+      country = ALG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AGQ }
   change_country_color = {
-      color = { 4 162 77 }
+      country = AGQ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ALO }
   change_country_color = {
-      color = { 135  144  180 }
+      country = ALO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ALS }
   change_country_color = {
-      color = { 246  223  15 }
+      country = ALS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ALT }
   change_country_color = {
-      color = { 197  28  148 }
+      country = ALT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AMA }
   change_country_color = {
-      color = { 205  94  60 }
+      country = AMA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ADU }
   change_country_color = {
-      color = {  240 230 155 }
+      country = ADU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = YOR }
   change_country_color = {
-      color = { 47 132 124 }
+      country = YOR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AKT }
   change_country_color = {
-      color = { 200  85  84 }
+      country = AKT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AVE }
   change_country_color = {
-      color = { 110 0 140 }
+      country = AVE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ANH }
   change_country_color = {
-      color = { 203  93  124 }
+      country = ANH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ANL }
   change_country_color = {
-      color = { 83 30 157 }
+      country = ANL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ANZ }
   change_country_color = {
-      color = { 143 222 169 }
+      country = ANZ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ANN }
   change_country_color = {
-      color = { 186  14  92 }
+      country = ANN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ANS }
   change_country_color = {
-      color = { 130  77  119 }
+      country = ANS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ANT }
   change_country_color = {
-      color = { 51 183 51 }
+      country = ANT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AOT }
   change_country_color = {
-      color = { 120 16 0 }
+      country = AOT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = APA }
   change_country_color = {
-      color = { 198 158 109 }
+      country = APA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AQU }
   change_country_color = {
-      color = { 34  30  174 }
+      country = AQU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ARB }
   change_country_color = {
-      color = { 76  141  58 } 
+      country = ARB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ARA }
   change_country_color = {
-      color = { 166  68  72 }
+      country = ARA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ARK }
   change_country_color = {
-      color = { 212  211  151 }
+      country = ARK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ARP }
   change_country_color = {
-      color = { 121  10  65 } 
+      country = ARP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ARW }
   change_country_color = {
-      color = { 102 120 225 }
+      country = ARW
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ARL }
   change_country_color = {
-      color = { 68  110  35 }
+      country = ARL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ARD }
   change_country_color = {
-      color = { 162  29  220 }
+      country = ARD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ARN }
   change_country_color = {
-      color = { 78  139  60 }
+      country = ARN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AMG }
   change_country_color = {
-      color = { 187 206 247 }
+      country = AMG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ARM }
   change_country_color = {
-      color = { 145  30  75 }
+      country = ARM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ASA }
   change_country_color = {
-      color = { 56  180  139 }
+      country = ASA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ASH }
   change_country_color = {
-      color = { 97  98  195 }
+      country = ASH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ASK }
   change_country_color = {
-      color = { 162  32  65 }
+      country = ASK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ASS }
   change_country_color = {
-      color = { 163  5  77 }
+      country = ASS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ASI }
   change_country_color = {
-      color = { 25 123 48 }
+      country = ASI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AST }
   change_country_color = {
-      color = { 26  27  154 }
+      country = AST
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ASU }
   change_country_color = {
-      color = { 104  173  230 }
+      country = ASU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ATA }
   change_country_color = {
-      color = { 91 112 207 }
+      country = ATA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ATH }
   change_country_color = {
-      color = { 113  112  96 }
+      country = ATH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ATJ }
   change_country_color = {
-      color = { 88  137  172 }
+      country = ATJ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ATT }
   change_country_color = {
-      color = { 61 248 196 }
+      country = ATT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AGG }
   change_country_color = {
-      color = { 216 184 43 }
+      country = AGG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ATW }
   change_country_color = {
-      color = { 110 167 103 }
+      country = ATW
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AUG }
   change_country_color = {
-      color = { 20 188 118 }
+      country = AUG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AUS }
   change_country_color = {
-      color = { 144  60  75 }
+      country = AUS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HAB }
   change_country_color = {
-      color = { 220  220  220 }
+      country = HAB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AUV }
   change_country_color = {
-      color = { 218 155 75 }
+      country = AUV
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AVA }
   change_country_color = {
-      color = { 98  138  99 }
+      country = AVA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AVR }
   change_country_color = {
-      color = { 42 145 210 }
+      country = AVR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AVI }
   change_country_color = {
-      color = { 205  178  107 }
+      country = AVI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AWN }
   change_country_color = {
-      color = { 137  69  69 }
+      country = AWN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AYD }
   change_country_color = {
-      color = { 255  151  40 }
+      country = AYD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AYU }
   change_country_color = {
-      color = { 60  152  70 }
+      country = AYU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HSN }
   change_country_color = {
-      color = { 234 179 30 } 
+      country = HSN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = AZT }
   change_country_color = {
-      color = { 48  149  21 } 
+      country = AZT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BAD }
   change_country_color = {
-      color = { 117  161  67 }
+      country = BAD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BGL }
   change_country_color = {
-      color = { 123  14  148 }
+      country = BGL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BGA }
   change_country_color = {
-      color = { 131  52  76 }
+      country = BGA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BAH }
   change_country_color = {
-      color = { 49 175 191 }
+      country = BAH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BLI }
   change_country_color = {
-      color = { 201  97  74 }
+      country = BLI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BAL }
   change_country_color = {
-      color = { 175  82  16 }
+      country = BAL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BAM }
   change_country_color = {
-      color = { 200  219  195 }
+      country = BAM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BNJ }
   change_country_color = {
-      color = { 171  175  40 }
+      country = BNJ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BAN }
   change_country_color = {
-      color = { 130  25  74 }
+      country = BAN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BAR }
   change_country_color = {
-      color = { 178  163  143 }
+      country = BAR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BDA }
   change_country_color = {
-      color = { 245  139  127 }
+      country = BDA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BRS }
   change_country_color = {
-      color = { 201  33  53 }
+      country = BRS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BSH }
   change_country_color = {
-      color = { 131  202  12 }
+      country = BSH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BSG }
   change_country_color = {
-      color = { 213 185 110 }
+      country = BSG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BSR }
   change_country_color = {
-      color = { 103  121  136 }
+      country = BSR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BST }
   change_country_color = {
-      color = { 21  50  212 }
+      country = BST
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BAV }
   change_country_color = {
-      color = { 17  116  193 }
+      country = BAV
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BYT }
   change_country_color = {
-      color = { 210  210  38 }
+      country = BYT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BEJ }
   change_country_color = {
-      color = { 228 243 104 }
+      country = BEJ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BLO }
   change_country_color = {
-      color = { 66 32 81 }
+      country = BLO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BNG }
   change_country_color = {
-      color = { 36  109  194 }
+      country = BNG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BEN }
   change_country_color = {
-      color = { 110  173  129 }
+      country = BEN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BRR }
   change_country_color = {
-      color = { 26  207  81 }
+      country = BRR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BEU }
   change_country_color = {
-      color = { 122  116  124 }
+      country = BEU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BRG }
   change_country_color = {
-      color = { 240 205 140 }
+      country = BRG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BER }
   change_country_color = {
-      color = { 85  65  215 }
+      country = BER
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BTS }
   change_country_color = {
-      color = { 220 58 58 }
+      country = BTS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BHA }
   change_country_color = {
-      color = { 80  165  10 }
+      country = BHA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BHU }
   change_country_color = {
-      color = { 93  180  76 }
+      country = BHU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BPI }
   change_country_color = {
-      color = { 229 153 34 }
+      country = BPI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BIJ }
   change_country_color = {
-      color = { 40  121  66 }
+      country = BIJ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MBL }
   change_country_color = {
-      color = { 81 177 137 }
+      country = MBL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BTL }
   change_country_color = {
-      color = { 205 110 47 }
+      country = BTL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BLA }
   change_country_color = {
-      color = { 102  153  255 } 
+      country = BLA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BLM }
   change_country_color = {
-      color = { 168  62  31 }
+      country = BLM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BOH }
   change_country_color = {
-      color = { 161  139  40 }
+      country = BOH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BHT }
   change_country_color = {
-      color = { 62  129  120 }
+      country = BHT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BLG }
   change_country_color = {
-      color = { 236 95 0 }
+      country = BLG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BNE }
   change_country_color = {
-      color = { 144  86  70 }
+      country = BNE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BON }
   change_country_color = {
-      color = { 163  40  25 }
+      country = BON
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BOS }
   change_country_color = {
-      color = { 240  167  130 }
+      country = BOS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BOU }
   change_country_color = {
-      color = { 0 140 165 }
+      country = BOU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BRB }
   change_country_color = {
-      color = { 118  193  153 }
+      country = BRB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BRA }
   change_country_color = {
-      color = { 123  90  90 }
+      country = BRA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BRZ }
   change_country_color = {
-      color = { 129  177  125 }
+      country = BRZ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BRE }
   change_country_color = {
-      color = { 33  101  137 }
+      country = BRE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BRI }
   change_country_color = {
-      color = { 118  99  151 }
+      country = BRI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BEI }
   change_country_color = {
-      color = { 41  89  174 }
+      country = BEI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BRU }
   change_country_color = {
-      color = { 116  92  39 }
+      country = BRU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BUG }
   change_country_color = {
-      color = { 21 21 227 }
+      country = BUG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = UBH }
   change_country_color = {
-      color = { 22 92 22 }
+      country = UBH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BUK }
   change_country_color = {
-      color = { 255  134  0 }
+      country = BUK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BUL }
   change_country_color = {
-      color = { 116  107  140 }
+      country = BUL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BND }
   change_country_color = {
-      color = { 23  114  143 }
+      country = BND
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BNY }
   change_country_color = {
-      color = { 174 24 66 }
+      country = BNY
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MAM }
   change_country_color = {
-      color = { 188  166  93 } 
+      country = MAM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BUR }
   change_country_color = {
-      color = { 148  30  70 }
+      country = BUR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BUU }
   change_country_color = {
-      color = { 21 191 16 }
+      country = BUU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BRT }
   change_country_color = {
-      color = {  70 130 180  }
+      country = BRT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BTN }
   change_country_color = {
-      color = { 209  203  31 }
+      country = BTN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = RZW }
   change_country_color = {
-      color = { 181 45 45 }
+      country = RZW
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BTU }
   change_country_color = {
-      color = { 129  222  235 }
+      country = BTU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BYZ }
   change_country_color = {
-      color = { 149 45 102 }
+      country = BYZ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CAD }
   change_country_color = {
-      color = { 125 32 29 }
+      country = CAD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CAO }
   change_country_color = {
-      color = { 59 15 49 }
+      country = CAO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CJA }
   change_country_color = {
-      color = { 162 123 64 }
+      country = CJA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CCQ }
   change_country_color = {
-      color = { 74 44 126 }
+      country = CCQ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CLB }
   change_country_color = {
-      color = { 239  162  53 }
+      country = CLB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CAL }
   change_country_color = {
-      color = { 245  147  54 }
+      country = CAL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CNP }
   change_country_color = {
-      color = { 134  136  21 }
+      country = CNP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CAN }
   change_country_color = {
-      color = { 94  117  55 }
+      country = CAN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CND }
   change_country_color = {
-      color = { 114  70  103 }
+      country = CND
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CAB }
   change_country_color = {
-      color = { 52 120 25 }
+      country = CAB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KRK }
   change_country_color = {
-      color = { 232  79  142 }
+      country = KRK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CSC }
   change_country_color = {
-      color = { 8  90  5 }
+      country = CSC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CAQ }
   change_country_color = {
-      color = { 70 31 179 }
+      country = CAQ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CAS }
   change_country_color = {
-      color = { 193  171  8 }
+      country = CAS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CAT }
   change_country_color = {
-      color = { 213  132  76 }
+      country = CAT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CAY }
   change_country_color = {
-      color = { 44 63 182 }
+      country = CAY
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CEB }
   change_country_color = {
-      color = { 45 215 45 }
+      country = CEB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CEY }
   change_country_color = {
-      color = { 60  123  65 }
+      country = CEY
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CYA }
   change_country_color = {
-      color = { 157  199  224 }
+      country = CYA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CTM }
   change_country_color = {
-      color = { 194  86  91 }
+      country = CTM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CHG }
   change_country_color = {
-      color = { 87  92  104 }
+      country = CHG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CHH }
   change_country_color = {
-      color = { 140  163  128 }
+      country = CHH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CLG }
   change_country_color = {
-      color = { 195 18 152 }
+      country = CLG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CHA }
   change_country_color = {
-      color = { 53  151  151 }
+      country = CHA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CHP }
   change_country_color = {
-      color = { 166  125  154 }
+      country = CHP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CHK }
   change_country_color = {
-      color = { 139  131  162 }
+      country = CHK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CHD }
   change_country_color = {
-      color = { 165  167  29 }
+      country = CHD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CGS }
   change_country_color = {
-      color = { 51  215  51 }
+      country = CGS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CRA }
   change_country_color = {
-      color = { 198  131  244 }
+      country = CRA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CUA }
   change_country_color = {
-      color = { 174 151 145 }
+      country = CUA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CHV }
   change_country_color = {
-      color = { 131 146 194 }
+      country = CHV
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CHR }
   change_country_color = {
-      color = { 190 190 190 }
+      country = CHR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CHE }
   change_country_color = {
-      color = { 105  145  40 } 
+      country = CHE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CHY }
   change_country_color = {
-      color = { 150  50  10 } 
+      country = CHY
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CIA }
   change_country_color = {
-      color = { 148 104 197 }
+      country = CIA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CBA }
   change_country_color = {
-      color = { 32 55  68 }
+      country = CBA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CCM }
   change_country_color = {
-      color = { 248  229  21 } 
+      country = CCM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CHI }
   change_country_color = {
-      color = { 160 80 16 }
+      country = CHI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CHL }
   change_country_color = {
-      color = { 236  159  89 }
+      country = CHL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CHM }
   change_country_color = {
-      color = { 39  123  126} 
+      country = CHM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CNK }
   change_country_color = {
-      color = { 121  10  15 } 
+      country = CNK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CCA }
   change_country_color = {
-      color = { 111 79 4 }
+      country = CCA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CHO }
   change_country_color = {
-      color = { 0 46 59 }
+      country = CHO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CKW }
   change_country_color = {
-      color = { 99  160  39}
+      country = CKW
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CHT }
   change_country_color = {
-      color = { 94  96  11 }
+      country = CHT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CSK }
   change_country_color = {
-      color = { 115  75  62 }
+      country = CSK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CHC }
   change_country_color = {
-      color = { 251  168  196 }
+      country = CHC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CHU }
   change_country_color = {
-      color = { 98 94 163 }
+      country = CHU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CLI }
   change_country_color = {
-      color = { 159 174 96 }
+      country = CLI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CIR }
   change_country_color = {
-      color = { 42  107  17 }
+      country = CIR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CRB }
   change_country_color = {
-      color = { 233  83  70 }
+      country = CRB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = COB }
   change_country_color = {
-      color = { 71  201  101 }
+      country = COB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = COC }
   change_country_color = {
-      color = { 194  236  91 }
+      country = COC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = COF }
   change_country_color = {
-      color = { 188 102 110 }
+      country = COF
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = COI }
   change_country_color = {
-      color = { 58  18  220 }
+      country = COI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CLM }
   change_country_color = {
-      color = { 198  149  21 } 
+      country = CLM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CLA }
   change_country_color = {
-      color = { 188  234  158 }
+      country = CLA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KOL }
   change_country_color = {
-      color = { 84  124  48 }
+      country = KOL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = COL }
   change_country_color = {
-      color = { 89  140  176 }
+      country = COL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = COM }
   change_country_color = {
-      color = { 96 57 19 }
+      country = COM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CNN }
   change_country_color = {
-      color = { 193  237  85 }
+      country = CNN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = COO }
   change_country_color = {
-      color = { 42 246 88 }
+      country = COO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CEP }
   change_country_color = {
-      color = { 211  172  185 }
+      country = CEP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CRN }
   change_country_color = {
-      color = { 155  56  0 }
+      country = CRN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = COR }
   change_country_color = {
-      color = { 106  178  46 }
+      country = COR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = COW }
   change_country_color = {
-      color = { 18 39 184 }
+      country = COW
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = WCR }
   change_country_color = {
-      color = { 28 187 180 }
+      country = WCR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CRE }
   change_country_color = {
-      color = { 108  139  208 }
+      country = CRE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CRT }
   change_country_color = {
-      color = { 138  110  130 }
+      country = CRT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CRI }
   change_country_color = {
-      color = { 59  158  125 }
+      country = CRI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CRO }
   change_country_color = {
-      color = { 104 94 247 }
+      country = CRO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CUB }
   change_country_color = {
-      color = { 140 65 166 }
+      country = CUB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CSU }
   change_country_color = {
-      color = { 229 64 64 }
+      country = CSU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CYP }
   change_country_color = {
-      color = { 245 200 30 }
+      country = CYP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = DGB }
   change_country_color = {
-      color = { 171 160 31 }
+      country = DGB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = DAH }
   change_country_color = {
-      color = { 11  84  179 }
+      country = DAH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = DAI }
   change_country_color = {
-      color = { 136  117  90 }
+      country = DAI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CDL }
   change_country_color = {
-      color = { 245 245 220 }
+      country = CDL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = DAL }
   change_country_color = {
-      color = { 46  128  188 }
+      country = DAL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = DAM }
   change_country_color = {
-      color = { 243 106 0 }
+      country = DAM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = DNG }
   change_country_color = {
-      color = { 213 194 66 }
+      country = DNG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = DNZ }
   change_country_color = {
-      color = { 78  129  151 }
+      country = DNZ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = DAR }
   change_country_color = {
-      color = { 44  160  70 }
+      country = DAR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = DTE }
   change_country_color = {
-      color = { 105  176  118 }
+      country = DTE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = DAU }
   change_country_color = {
-      color = { 93  194  122 }
+      country = DAU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = DAW }
   change_country_color = {
-      color = { 33 92 143 }
+      country = DAW
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = DEC }
   change_country_color = {
-      color = { 89  141  140 }
+      country = DEC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = DLH }
   change_country_color = {
-      color = { 157  200  42 }
+      country = DLH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = DLI }
   change_country_color = {
-      color = { 68  94  85 }
+      country = DLI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = DMK }
   change_country_color = {
-      color = { 211  211  78 }
+      country = DMK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = DAN }
   change_country_color = {
-      color = { 190  70  70 }
+      country = DAN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = DMS }
   change_country_color = {
-      color = { 179 89 89 }
+      country = DMS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = DHU }
   change_country_color = {
-      color = { 98  110  96 }
+      country = DHU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = DTT }
   change_country_color = {
-      color = { 72 194 212 }
+      country = DTT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = DWT }
   change_country_color = {
-      color = { 80 201 64 }
+      country = DWT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ABB }
   change_country_color = {
-      color = { 50 162 50 }
+      country = ABB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = DTI }
   change_country_color = {
-      color = { 231 152 79 }
+      country = DTI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = DUL }
   change_country_color = {
-      color = { 233  255  218 } 
+      country = DUL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = EFR }
   change_country_color = {
-      color = { 190  32  16 }
+      country = EFR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = EIC }
   change_country_color = {
-      color = { 212 87 78 }
+      country = EIC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = EJZ }
   change_country_color = {
-      color = { 244 148 77 }
+      country = EJZ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = EGY }
   change_country_color = {
-      color = { 255  220  104 } 
+      country = EGY
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ENA }
   change_country_color = {
-      color = { 213 190 38 }
+      country = ENA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ENG }
   change_country_color = {
-      color = { 193  26  14 }
+      country = ENG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = EOR }
   change_country_color = {
-      color = { 243  155  75 }
+      country = EOR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = EPI }
   change_country_color = {
-      color = { 230  228  214 }
+      country = EPI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ERE }
   change_country_color = {
-      color = { 250  200  70 } 
+      country = ERE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ERI }
   change_country_color = {
-      color = { 44 220 23 }
+      country = ERI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = EST }
   change_country_color = {
-      color = { 248  125  125 }
+      country = EST
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ETH }
   change_country_color = {
-      color = { 56  120  191 }
+      country = ETH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ETO }
   change_country_color = {
-      color = { 80 51 215 }
+      country = ETO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ETR }
   change_country_color = {
-      color = { 114  154  143 } 
+      country = ETR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = FAD }
   change_country_color = {
-      color = { 96 148 40 }
+      country = FAD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = FLY }
   change_country_color = {
-      color = { 237 138 22 }
+      country = FLY
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = FRS }
   change_country_color = {
-      #color = { 232 206 0 }
+      country = FRS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = FER }
   change_country_color = {
-      color = { 21  128  21 }
+      country = FER
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = FEZ }
   change_country_color = {
-      color = { 224  146  113 }
+      country = FEZ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = FZA }
   change_country_color = {
-      color = { 113 176 151 }
+      country = FZA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = FIN }
   change_country_color = {
-      color = { 182  134  100 }
+      country = FIN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = FLA }
   change_country_color = {
-      color = { 43  141  172 }
+      country = FLA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LAN }
   change_country_color = {
-      color = { 236  47  47 } 
+      country = LAN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = FLO }
   change_country_color = {
-      color = { 240  227  27 }
+      country = FLO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = FOI }
   change_country_color = {
-      color = { 105  106  182 }
+      country = FOI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = FRM }
   change_country_color = {
-      color = { 218  234  15 }
+      country = FRM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = FOX }
   change_country_color = {
-      color = { 242 101 34 }
+      country = FOX
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = FRA }
   change_country_color = {
-      color = { 20  50  210 }
+      country = FRA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = FKN }
   change_country_color = {
-      color = { 89  128  68 }
+      country = FKN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = FRN }
   change_country_color = {
-      color = { 243  201  33 }
+      country = FRN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = FRI }
   change_country_color = {
-      color = { 165  89  27 }
+      country = FRI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = FUL }
   change_country_color = {
-      color = { 245  135  25 }
+      country = FUL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NUB }
   change_country_color = {
-      color = { 84  80  152 }
+      country = NUB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GAL }
   change_country_color = {
-      color = { 240  167  130 }
+      country = GAL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GMI }
   change_country_color = {
-      color = { 59  148  111 }
+      country = GMI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GHR }
   change_country_color = {
-      color = { 60  154  135 }
+      country = GHR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GRJ }
   change_country_color = {
-      color = { 110  136  66 }
+      country = GRJ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GUY }
   change_country_color = {
-      color = { 32	144	204 }
+      country = GUY
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GAZ }
   change_country_color = {
-      color = { 162 93 31  }
+      country = GAZ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GLE }
   change_country_color = {
-      color = { 38 160 67 }
+      country = GLE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GEL }
   change_country_color = {
-      color = { 139  66  97 }
+      country = GEL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GNV }
   change_country_color = {
-      color = { 255  250  138 }
+      country = GNV
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GEN }
   change_country_color = {
-      color = { 218  215  56 }
+      country = GEN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GEO }
   change_country_color = {
-      color = { 190  35  37 }
+      country = GEO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GER }
   change_country_color = {
-      color = { 75  130  135 }
+      country = GER
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GRM }
   change_country_color = {
-      color = { 200 8 21 }
+      country = GRM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GHD }
   change_country_color = {
-      color = { 255 133 15 } 
+      country = GHD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KRY }
   change_country_color = {
-      color = { 215 208 14 }
+      country = KRY
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GNG }
   change_country_color = {
-      color = { 62  39  142 }
+      country = GNG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GLG }
   change_country_color = {
-      color = { 5  171  147 }
+      country = GLG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GOC }
   change_country_color = {
-      color = { 183  176  94 }
+      country = GOC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GLH }
   change_country_color = {
-      color = { 250  182  3 }
+      country = GLH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GDW }
   change_country_color = {
-      color = { 224  146  113 }
+      country = GDW
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GRK }
   change_country_color = {
-      color = { 137 183 124 }
+      country = GRK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GOS }
   change_country_color = {
-      color = { 88  45  148 }
+      country = GOS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GOT }
   change_country_color = {
-      color = { 153  126  0 }
+      country = GOT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GRA }
   change_country_color = {
-      color = {  210 220 175 }
+      country = GRA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GZI }
   change_country_color = {
-      color = { 255  211  0 }
+      country = GZI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GBR }
   change_country_color = {
-      color = { 153  0 0 }
+      country = GBR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GOL }
   change_country_color = {
-      color = { 193  179  127 }
+      country = GOL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = YUA }
   change_country_color = {
-      color = { 188 18 18 }
+      country = YUA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GRE }
   change_country_color = {
-      color = { 9  9  103 }
+      country = GRE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GAM }
   change_country_color = {
-      color = { 228  49  121 } 
+      country = GAM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GUA }
   change_country_color = {
-      color = { 193 90 66 }
+      country = GUA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GUG }
   change_country_color = {
-      color = { 50  37  125 }
+      country = GUG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GUJ }
   change_country_color = {
-      color = { 231  224  107 }
+      country = GUJ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GUR }
   change_country_color = {
-      color = { 71  133  178 }
+      country = GUR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = GWA }
   change_country_color = {
-      color = { 153  237  145 }
+      country = GWA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ALH }
   change_country_color = {
-      color = { 178  103  5 }
+      country = ALH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HDY }
   change_country_color = {
-      color = { 181 215 25 }
+      country = HDY
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HAD }
   change_country_color = {
-      color = { 119  25  21 }
+      country = HAD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HDR }
   change_country_color = {
-      color = { 16 142 49 }
+      country = HDR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HDA }
   change_country_color = {
-      color = { 20  191  20 } 
+      country = HDA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HAI }
   change_country_color = {
-      color = { 103  62  185 }
+      country = HAI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HAT }
   change_country_color = {
-      color = { 139  179  207 }
+      country = HAT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MHX }
   change_country_color = {
-      color = { 152  167  237 }
+      country = MHX
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HAM }
   change_country_color = {
-      color = { 227  95  7 }
+      country = HAM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HAN }
   change_country_color = {
-      color = { 164  217  127 }
+      country = HAN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HSA }
   change_country_color = {
-      color = { 156  179  189 }
+      country = HSA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HAR }
   change_country_color = {
-      color = { 175  75  15 }
+      country = HAR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HNI }
   change_country_color = {
-      color = { 171 192 31 }
+      country = HNI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HTK }
   change_country_color = {
-      color = { 105  130  27 }
+      country = HTK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HWK }
   change_country_color = {
-      color = { 164 220 134 }
+      country = HWK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HAU }
   change_country_color = {
-      color = { 48  169  96 }
+      country = HAU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HAW }
   change_country_color = {
-      color = { 255 135 80 }
+      country = HAW
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = UHW }
   change_country_color = {
-      color = { 180 215 145 }
+      country = UHW
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HED }
   change_country_color = {
-      color = { 255  215  185 }
+      country = HED
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HRZ }
   change_country_color = {
-      color = { 72 113 160 }
+      country = HRZ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HES }
   change_country_color = {
-      color = { 114  171  184 }
+      country = HES
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HSC }
   change_country_color = {
-      color = { 37 113 207 }
+      country = HSC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HIN }
   change_country_color = {
-      color = { 235  255  220 }
+      country = HIN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HOB }
   change_country_color = {
-      color = { 255 73 7 }
+      country = HOB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HOD }
   change_country_color = {
-      color = { 163 182 143 }
+      country = HOD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HJO }
   change_country_color = {
-      color = { 39  74  120 }
+      country = HJO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HOL }
   change_country_color = {
-      color = { 156  96  100 }
+      country = HOL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SHL }
   change_country_color = {
-      color = { 220  150  158 }
+      country = SHL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HLR }
   change_country_color = {
-      color = { 150  177  161 }
+      country = HLR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HSK }
   change_country_color = {
-      color = { 49  103  69 }
+      country = HSK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HSE }
   change_country_color = {
-      color = { 220  61  104 }
+      country = HSE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HSI }
   change_country_color = {
-      color = { 186  147  251 }
+      country = HSI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HUA }
   change_country_color = {
-      color = { 132  207  191 }
+      country = HUA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HST }
   change_country_color = {
-      color = { 64  236  91 }
+      country = HST
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HUN }
   change_country_color = {
-      color = { 152  85  92 }
+      country = HUN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HUR }
   change_country_color = {
-      color = { 178  139  60 }
+      country = HUR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HJA }
   change_country_color = {
-      color = { 41 123 73 }
+      country = HJA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ICE }
   change_country_color = {
-      color = { 43 60 117 }
+      country = ICE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ICH }
   change_country_color = {
-      color = { 233 52 243 }
+      country = ICH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ICM }
   change_country_color = {
-      color = { 165  10  35 }
+      country = ICM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = IDR }
   change_country_color = {
-      color = { 31  102  187 }
+      country = IDR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = IKE }
   change_country_color = {
-      color = { 178  140  110 }
+      country = IKE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ILK }
   change_country_color = {
-      color = { 232 48 2 }
+      country = ILK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ILL }
   change_country_color = {
-      color = { 129 214 238 }
+      country = ILL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ILI }
   change_country_color = {
-      color = { 98  180  208 }
+      country = ILI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = IMG }
   change_country_color = {
-      color = { 220  203  24 }
+      country = IMG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = IME }
   change_country_color = {
-      color = { 36  132  247 }
+      country = IME
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = INC }
   change_country_color = {
-      color = { 125  92  110 }
+      country = INC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = IND }
   change_country_color = {
-      color = { 210  190  252 }
+      country = IND
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ING }
   change_country_color = {
-      color = { 67  163  215 }
+      country = ING
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = INN }
   change_country_color = {
-      color = { 8 64 6 }
+      country = INN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = IRQ }
   change_country_color = {
-      color = { 153  138  161 }
+      country = IRQ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = IRE }
   change_country_color = {
-      color = { 112  150  105 }
+      country = IRE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MNS }
   change_country_color = {
-      color = { 104  137  140 }
+      country = MNS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = IRO }
   change_country_color = {
-      color = { 87  182  80 }
+      country = IRO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ISF }
   change_country_color = {
-      color = { 21 19 65 }
+      country = ISF
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ISL }
   change_country_color = {
-      color = { 244 232 188 }
+      country = ISL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ISR }
   change_country_color = {
-      color = { 20 138 255 }
+      country = ISR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ISK }
   change_country_color = {
-      color = { 47 155 224 }
+      country = ISK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ITA }
   change_country_color = {
-      color = { 125  171  84 }
+      country = ITA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ITO }
   change_country_color = {
-      color = { 71  74  77 }
+      country = ITO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ITZ }
   change_country_color = {
-      color = { 94  236  191 }
+      country = ITZ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = JFN }
   change_country_color = {
-      color = { 237  139  0 }
+      country = JFN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = JSL }
   change_country_color = {
-      color = { 119  151  122 }
+      country = JSL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = JMB }
   change_country_color = {
-      color = { 223  228  192 }
+      country = JMB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = JMN }
   change_country_color = {
-      color = { 65  55  188 }
+      country = JMN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = JAN }
   change_country_color = {
-      color = { 59  51  29 }
+      country = JAN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = JJI }
   change_country_color = {
-      color = { 149 133 207 }
+      country = JJI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = JAJ }
   change_country_color = {
-      color = { 124  62  183 }
+      country = JAJ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = JAP }
   change_country_color = {
-      color = { 194  53  60 }
+      country = JAP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = JAR }
   change_country_color = {
-      color = { 199  244  188 }
+      country = JAR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = JNP }
   change_country_color = {
-      color = { 100  94  125 }
+      country = JNP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = JNN }
   change_country_color = {
-      color = { 55  158  198 }
+      country = JNN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KOJ }
   change_country_color = {
-      color = { 211  230  211 }
+      country = KOJ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = JPR }
   change_country_color = {
-      color = { 237 174 221 }
+      country = JPR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = JLV }
   change_country_color = {
-      color = { 208 157 33 }
+      country = JLV
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NGP }
   change_country_color = {
-      color = { 129  161  87 }
+      country = NGP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MJZ }
   change_country_color = {
-      color = { 65  32  57 }
+      country = MJZ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = JIM }
   change_country_color = {
-      color = { 239 67 67 }
+      country = JIM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = JIN }
   change_country_color = {
-      color = { 229  222  20 }
+      country = JIN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = JOA }
   change_country_color = {
-      color = { 1 148 8 }
+      country = JOA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = JOH }
   change_country_color = {
-      color = { 30  112  187 }
+      country = JOH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = JOL }
   change_country_color = {
-      color = { 215  215  125 }
+      country = JOL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = JML }
   change_country_color = {
-      color = { 226 252 82 }
+      country = JML
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = JGD }
   change_country_color = {
-      color = { 200 229 237 }
+      country = JGD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KBU }
   change_country_color = {
-      color = { 255  55  185 }
+      country = KBU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KBA }
   change_country_color = {
-      color = { 60  140  70 } 
+      country = KBA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KAC }
   change_country_color = {
-      color = { 63  20  177 }
+      country = KAC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KAF }
   change_country_color = {
-      #color = { 205  202  221 }
+      country = KAF
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KLH }
   change_country_color = {
-      color = { 93 183 140 }
+      country = KLH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KAL }
   change_country_color = {
-      color = { 148  182  3 }
+      country = KAL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KLM }
   change_country_color = {
-      color = { 58  65  73 }
+      country = KLM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KLP }
   change_country_color = {
-      color = { 23  14  93 }
+      country = KLP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KLD }
   change_country_color = {
-      color = { 99  60  239 }
+      country = KLD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KMC }
   change_country_color = {
-      color = { 182 143 149 }
+      country = KMC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KND }
   change_country_color = {
-      color = { 43 148 246 }
+      country = KND
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KBO }
   change_country_color = {
-      color = { 30  131  162 }
+      country = KBO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KGR }
   change_country_color = {
-      color = { 29  124  255 }
+      country = KGR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KAN }
   change_country_color = {
-      color = { 48  193  241 }
+      country = KAN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KAQ }
   change_country_color = {
-      color = { 75  136  191 }
+      country = KAQ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = HMI }
   change_country_color = {
-      color = { 118  193  177 }
+      country = HMI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KRW }
   change_country_color = {
-      color = { 48 177 169 }
+      country = KRW
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KAR }
   change_country_color = {
-      color = { 90  160  190 }
+      country = KAR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KRL }
   change_country_color = {
-      color = { 244  38  38 }
+      country = KRL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KSJ }
   change_country_color = {
-      color = { 199  160  39 }
+      country = KSJ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MLK }
   change_country_color = {
-      color = { 117 167 117 }
+      country = MLK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KSH }
   change_country_color = {
-      color = { 63  150  30 }
+      country = KSH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KSI }
   change_country_color = {
-      color = { 75 162 171 }
+      country = KSI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KSK }
   change_country_color = {
-      color = { 246 129 104 }
+      country = KSK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KAT }
   change_country_color = {
-      color = { 212 84 55 }
+      country = KAT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KTU }
   change_country_color = {
-      color = { 173 141 158  }
+      country = KTU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KTS }
   change_country_color = {
-      color = { 148  249  196 }
+      country = KTS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KAA }
   change_country_color = {
-      color = { 190 90 90 }
+      country = KAA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KAU }
   change_country_color = {
-      color = { 190  75  30 }
+      country = KAU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KZH }
   change_country_color = {
-      color = { 202 217 170 }
+      country = KZH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KAZ }
   change_country_color = {
-      color = { 97  102  135 }
+      country = KAZ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KZB }
   change_country_color = {
-      color = { 199  160  239 }
+      country = KZB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KED }
   change_country_color = {
-      color = { 170  72  67 }
+      country = KED
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KLN }
   change_country_color = {
-      color = { 156  129  33 }
+      country = KLN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KEL }
   change_country_color = {
-      color = { 123  3  9 }
+      country = KEL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KJH }
   change_country_color = {
-      color = { 237 204 3 }
+      country = KJH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KER }
   change_country_color = {
-      color = { 162 28 58 }
+      country = KER
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KRM }
   change_country_color = {
-      color = { 104 189 104 }
+      country = KRM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KLK }
   change_country_color = {
-      color = { 224  104  83 }
+      country = KLK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KHD }
   change_country_color = {
-      color = { 138  151  103 }
+      country = KHD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KHI }
   change_country_color = {
-      color = { 210  175  60 } 
+      country = KHI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KHM }
   change_country_color = {
-      color = { 127  180  60 }
+      country = KHM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KHO }
   change_country_color = {
-      color = { 130  168  224 }
+      country = KHO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KRC }
   change_country_color = {
-      color = { 221  93  170 }
+      country = KRC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KSD }
   change_country_color = {
-      color = { 255  101  38 }
+      country = KSD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KIC }
   change_country_color = {
-      color = { 94  36  191 }
+      country = KIC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KIE }
   change_country_color = {
-      color = { 81 123 210 }
+      country = KIE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KIK }
   change_country_color = {
-      color = { 99  60  39 }
+      country = KIK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KKC }
   change_country_color = {
-      color = { 248 184  98 }
+      country = KKC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KID }
   change_country_color = {
-      color = { 104 130 172 }
+      country = KID
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KIO }
   change_country_color = {
-      color = { 121  210  115 } 
+      country = KIO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KSP }
   change_country_color = {
-      color = { 163 43 202 }
+      country = KSP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KTB }
   change_country_color = {
-      color = { 113 104 108 }
+      country = KTB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KIT }
   change_country_color = {
-      color = { 255 225 57 }
+      country = KIT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KLE }
   change_country_color = {
-      color = { 173  176  113 }
+      country = KLE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KNI }
   change_country_color = {
-      color = { 106  127  183 }
+      country = KNI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KMT }
   change_country_color = {
-      color = { 163  66  74 }
+      country = KMT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KOC }
   change_country_color = {
-      color = {  255  188  225  }
+      country = KOC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KOH }
   change_country_color = {
-      color = { 194  125  201 }
+      country = KOH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KOK }
   change_country_color = {
-      color = { 40 75 175 }
+      country = KOK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KLT }
   change_country_color = {
-      color = { 188 21 64 }
+      country = KLT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KNG }
   change_country_color = {
-      color = { 137  98  195 }
+      country = KNG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KON }
   change_country_color = {
-      color = { 199  160  139 }
+      country = KON
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KNO }
   change_country_color = {
-      color = { 22  94  131 }
+      country = KNO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KNZ }
   change_country_color = {
-      color = { 255  133  59 }
+      country = KNZ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KOR }
   change_country_color = {
-      color = { 26  53  177 }
+      country = KOR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KRA }
   change_country_color = {
-      color = { 138  193  231 }
+      country = KRA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KUB }
   change_country_color = {
-      color = { 159  60  189 }
+      country = KUB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KUL }
   change_country_color = {
-      color = { 32  35  117 }
+      country = KUL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KMN }
   change_country_color = {
-      color = { 135 219 135 }
+      country = KMN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KUR }
   change_country_color = {
-      color = { 99  137  153 }
+      country = KUR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KUT }
   change_country_color = {
-      color = { 178  116  221 }
+      country = KUT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LAC }
   change_country_color = {
-      color = { 224  236  191 }
+      country = LAC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LDK }
   change_country_color = {
-      color = { 23  110  90 }
+      country = LDK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LAK }
   change_country_color = {
-      color = { 19 27 81 }
+      country = LAK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LNO }
   change_country_color = {
-      color = { 44  104  150 }
+      country = LNO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LBV }
   change_country_color = {
-      color = { 35  220  240 }
+      country = LBV
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LFA }
   change_country_color = {
-      color = { 43  165  157 }
+      country = LFA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LNA }
   change_country_color = {
-      color = { 74  92  128 }
+      country = LNA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LXA }
   change_country_color = {
-      color = { 210  46  28 }
+      country = LXA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LAP }
   change_country_color = {
-      color = { 101  102  163 }
+      country = LAP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LAR }
   change_country_color = {
-      color = { 221  183  68 }
+      country = LAR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LTG }
   change_country_color = {
-      color = { 78  65  15 }
+      country = LTG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LAE }
   change_country_color = {
-      color = { 255 212 42 }
+      country = LAE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LAI }
   change_country_color = {
-      color = { 250 220 180 }
+      country = LAI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LAU }
   change_country_color = {
-      color = { 79 139 99 }
+      country = LAU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LEB }
   change_country_color = {
-      color = { 225  110  25 }
+      country = LEB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LEI }
   change_country_color = {
-      color = { 48  164  51 }
+      country = LEI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LEN }
   change_country_color = {
-      color = { 76 110 150 }
+      country = LEN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LON }
   change_country_color = {
-      color = { 99  14  87 }
+      country = LON
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LNG }
   change_country_color = {
-      color = { 106  97  104 }
+      country = LNG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LIB }
   change_country_color = {
-      color = { 242  249  255 }
+      country = LIB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LIE }
   change_country_color = {
-      color = { 149  186  37 }
+      country = LIE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LIG }
   change_country_color = {
-      color = { 16  114  124 }
+      country = LIG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LWA }
   change_country_color = {
-      color = { 181 114 3 }
+      country = LWA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LIP }
   change_country_color = {
-      color = { 98 58 109 }
+      country = LIP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LPP }
   change_country_color = {
-      color = { 21  83  149 }
+      country = LPP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LIT }
   change_country_color = {
-      color = { 154  69  116 }
+      country = LIT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LVA }
   change_country_color = {
-      color = { 20 14 150 }
+      country = LVA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LIV }
   change_country_color = {
-      color = { 125  30  100 }
+      country = LIV
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LOA }
   change_country_color = {
-      color = { 200  202  85 }
+      country = LOA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LOR }
   change_country_color = {
-      color = { 115  142  205 }
+      country = LOR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LOT }
   change_country_color = {
-      color = { 95 106  207 }
+      country = LOT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LOU }
   change_country_color = {
-      color = { 144  52  53 }
+      country = LOU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LUA }
   change_country_color = {
-      color = { 93  147  88 }
+      country = LUA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LUB }
   change_country_color = {
-      color = { 97 209 251 }
+      country = LUB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LUC }
   change_country_color = {
-      color = { 146  251  82 }
+      country = LUC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LND }
   change_country_color = {
-      color = { 199  60  39 }
+      country = LND
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LDU }
   change_country_color = {
-      color = { 114 30 229 }
+      country = LDU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LUN }
   change_country_color = {
-      color = { 135  109  147 }
+      country = LUN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LRI }
   change_country_color = {
-      color = { 207 213 47 }
+      country = LRI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LUW }
   change_country_color = {
-      color = { 132  133  197 }
+      country = LUW
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LUX }
   change_country_color = {
-      color = { 53  140  73 }
+      country = LUX
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MCM }
   change_country_color = {
-      color = { 150 231 150 }
+      country = MCM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MAD }
   change_country_color = {
-      color = { 233  88  88 }
+      country = MAD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MAS }
   change_country_color = {
-      color = { 208 145 55 }
+      country = MAS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MAE }
   change_country_color = {
-      color = { 144  121  173 }
+      country = MAE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MAG }
   change_country_color = {
-      color = { 189  115  99 }
+      country = MAG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MGD }
   change_country_color = {
-      color = { 119  32  29 }
+      country = MGD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MFY }
   change_country_color = {
-      color = { 187 96 193 }
+      country = MFY
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MAH }
   change_country_color = {
-      color = { 148 150 28 }
+      country = MAH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MHR }
   change_country_color = {
-      color = { 53 191 176 }
+      country = MHR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MAI }
   change_country_color = {
-      color = { 178  145  87 }
+      country = MAI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MAJ }
   change_country_color = {
-      color = { 201  28  54 }
+      country = MAJ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MJE }
   change_country_color = {
-      color = { 220 200 100 }
+      country = MJE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MJO }
   change_country_color = {
-      color = { 243  111  107 }
+      country = MJO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MKS }
   change_country_color = {
-      color = { 117  179  128 }
+      country = MKS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MKU }
   change_country_color = {
-      color = { 147 146 62 }
+      country = MKU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MAK }
   change_country_color = {
-      color = { 184  80  52 }
+      country = MAK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MKP }
   change_country_color = {
-      color = { 18 59 115  }
+      country = MKP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MAB }
   change_country_color = {
-      color = {  61  155  32  }
+      country = MAB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MLC }
   change_country_color = {
-      color = { 100  96  197 }
+      country = MLC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MLG }
   change_country_color = {
-      color = { 191  185  93 }
+      country = MLG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MSA }
   change_country_color = {
-      color = { 80 10 165 }
+      country = MSA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = DGL }
   change_country_color = {
-      color = { 191  25  25 }
+      country = DGL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MAL }
   change_country_color = {
-      color = { 255  255  185 }
+      country = MAL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MLI }
   change_country_color = {
-      color = { 153  210  135 }
+      country = MLI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MLS }
   change_country_color = {
-      color = { 151 95 19 }
+      country = MLS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = JAI }
   change_country_color = {
-      color = { 80 200 120 }
+      country = JAI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MLW }
   change_country_color = {
-      color = { 192 5 24 }
+      country = MLW
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MCH }
   change_country_color = {
-      color = { 165  132  57 }
+      country = MCH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MLB }
   change_country_color = {
-      color = { 149  191  117 }
+      country = MLB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KOI }
   change_country_color = {
-      color = { 133 43 27 }
+      country = KOI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MAN }
   change_country_color = {
-      color = { 191  83  101 }
+      country = MAN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MPC }
   change_country_color = {
-      color = { 225 71 35 }
+      country = MPC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MAR }
   change_country_color = {
-      color = { 67  124  181 }
+      country = MAR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MRA }
   change_country_color = {
-      color = { 169 34 34 }
+      country = MRA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MGR }
   change_country_color = {
-      color = { 252 209 22 }
+      country = MGR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MRE }
   change_country_color = {
-      color = { 6 42 120 }
+      country = MRE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MRK }
   change_country_color = {
-      color = { 84  242  223 } 
+      country = MRK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MAW }
   change_country_color = {
-      color = { 192  111  179 }
+      country = MAW
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MAA }
   change_country_color = {
-      color = { 225 190 190 }
+      country = MAA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MTR }
   change_country_color = {
-      color = { 227  162  94 }
+      country = MTR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MAT }
   change_country_color = {
-      color = { 78  149  191 } 
+      country = MAT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MAU }
   change_country_color = {
-      color = { 65 140 60 }
+      country = MAU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MAY }
   change_country_color = {
-      color = { 94  136  191 }
+      country = MAY
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MNA }
   change_country_color = {
-      color = { 56  32  120 }
+      country = MNA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MAZ }
   change_country_color = {
-      color = { 195  149  155 }
+      country = MAZ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KAM }
   change_country_color = {
-      color = { 33  168  103 }
+      country = KAM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MTH }
   change_country_color = {
-      color = { 15  128  253 }
+      country = MTH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MKL }
   change_country_color = {
-      color = { 55  140  143 }
+      country = MKL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MDA }
   change_country_color = {
-      color = { 191 68 86 }
+      country = MDA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MED }
   change_country_color = {
-      #color = { 72  135  140 }
+      country = MED
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MEI }
   change_country_color = {
-      color = { 58  174  61 }
+      country = MEI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MEM }
   change_country_color = {
-      color = { 210  37  57 }
+      country = MEM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MEN }
   change_country_color = {
-      color = { 108 48 130 } 
+      country = MEN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MIR }
   change_country_color = {
-      color = { 43 43 186 }
+      country = MIR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MSC }
   change_country_color = {
-      color = { 218 158 79 }
+      country = MSC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MER }
   change_country_color = {
-      color = { 139  131  22 }
+      country = MER
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MEW }
   change_country_color = {
-      color = { 107 21 196 }
+      country = MEW
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MEX }
   change_country_color = {
-      color = { 219  124  139 }
+      country = MEX
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MMI }
   change_country_color = {
-      color = { 110 124 156 }
+      country = MMI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MIA }
   change_country_color = {
-      color = { 148  88  59 }
+      country = MIA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CMI }
   change_country_color = {
-      color = { 0 103 165 }
+      country = CMI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MFL }
   change_country_color = {
-      color = { 116 68 143 }
+      country = MFL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MIK }
   change_country_color = {
-      color = { 110 48 50 }
+      country = MIK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MLO }
   change_country_color = {
-      color = { 166  108  146 }
+      country = MLO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MIN }
   change_country_color = {
-      color = { 206  235  209 }
+      country = MIN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MNG }
   change_country_color = {
-      color = { 179  128  104 }
+      country = MNG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MIS }
   change_country_color = {
-      color = { 74 136 241 }
+      country = MIS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MSG }
   change_country_color = {
-      color = { 238 173 101 }
+      country = MSG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MIX }
   change_country_color = {
-      color = { 158  18  120 }
+      country = MIX
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MOD }
   change_country_color = {
-      color = { 241  252  151 }
+      country = MOD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MDI }
   change_country_color = {
-      color = { 212 175 55 }
+      country = MDI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MOH }
   change_country_color = {
-      color = { 244 151 42 }
+      country = MOH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MOL }
   change_country_color = {
-      color = { 136  157  23 }
+      country = MOL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MBA }
   change_country_color = {
-      color = { 169  54  54 }
+      country = MBA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MKA }
   change_country_color = {
-      color = { 44  51  65 }
+      country = MKA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MMA }
   change_country_color = {
-      color = { 27  109  107 }
+      country = MMA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MNI }
   change_country_color = {
-      color = { 172  164  6 }
+      country = MNI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MGE }
   change_country_color = {
-      color = { 130 180 240 }
+      country = MGE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KHA }
   change_country_color = {
-      color = { 108  153  65 }
+      country = KHA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MPA }
   change_country_color = {
-      color = { 78  35  16 }
+      country = MPA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MYA }
   change_country_color = {
-      color = { 41  82  175 }
+      country = MYA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MON }
   change_country_color = {
-      color = { 39  108  140 }
+      country = MON
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MFA }
   change_country_color = {
-      color = { 96  183  6 }
+      country = MFA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MBZ }
   change_country_color = {
-      color = { 101  189  23 }
+      country = MBZ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MVA }
   change_country_color = {
-      color = { 232 149 18 }
+      country = MVA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MOE }
   change_country_color = {
-      color = { 168  121  129 }
+      country = MOE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MRI }
   change_country_color = {
-      color = { 230  180  34 }
+      country = MRI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MOR }
   change_country_color = {
-      color = { 191  110  62 } 
+      country = MOR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MSI }
   change_country_color = {
-      color = { 27  128  45 }
+      country = MSI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MPH }
   change_country_color = {
-      color = { 170  76  48 }
+      country = MPH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MUG }
   change_country_color = {
-      color = { 33  96  48 } 
+      country = MUG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MCA }
   change_country_color = {
-      color = { 162 182 64 }
+      country = MCA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MLH }
   change_country_color = {
-      color = { 155 170 136 }
+      country = MLH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MUL }
   change_country_color = {
-      color = { 95  139  214 }
+      country = MUL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = UBV }
   change_country_color = {
-      color = { 19  102  152 }
+      country = UBV
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MUN }
   change_country_color = {
-      color = { 205  103  80 }
+      country = MUN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MOS }
   change_country_color = {
-      color = { 206  181  97 }
+      country = MOS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MSY }
   change_country_color = {
-      color = { 140 102 152 }
+      country = MSY
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ZIM }
   change_country_color = {
-      color = { 186  164  78 }
+      country = ZIM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MYS }
   change_country_color = {
-      color = { 236  242  243 }
+      country = MYS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MZB }
   change_country_color = {
-      color = { 185 172 208 } 
+      country = MZB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NGA }
   change_country_color = {
-      color = { 249  160  55 }
+      country = NGA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NAG }
   change_country_color = {
-      color = { 215  86  0 }
+      country = NAG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NAJ }
   change_country_color = {
-      color = { 50  105  70 }
+      country = NAJ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NJR }
   change_country_color = {
-      color = { 110 159 225 }
+      country = NJR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NAK }
   change_country_color = {
-      color = { 229 93 20 }
+      country = NAK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = RFR }
   change_country_color = {
-      color = { 39  100  157 }
+      country = RFR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NAP }
   change_country_color = {
-      color = { 100  50  150 }
+      country = NAP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NSA }
   change_country_color = {
-      color = { 91 83 203 }
+      country = NSA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NTZ }
   change_country_color = {
-      color = { 156 43 172 }
+      country = NTZ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NTC }
   change_country_color = {
-      color = { 49 182 135 }
+      country = NTC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NAT }
   change_country_color = {
-      color = { 203  164  103 }	
+      country = NAT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NAH }
   change_country_color = {
-      color = { 126 180 154 }
+      country = NAH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NVR }
   change_country_color = {
-      color = { 145 84 183 }
+      country = NVR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NAV }
   change_country_color = {
-      color = { 252  233  58 }
+      country = NAV
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NAX }
   change_country_color = {
-      color = { 24  50  123 }
+      country = NAX
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NDO }
   change_country_color = {
-      color = { 99  60  139 }
+      country = NDO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NEH }
   change_country_color = {
-      color = { 105 30 41 }
+      country = NEH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NPL }
   change_country_color = {
-      color = { 215 12 64 }
+      country = NPL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NED }
   change_country_color = {
-      color = { 220  138  57 }
+      country = NED
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NEV }
   change_country_color = {
-      color = { 195  104  228 }
+      country = NEV
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NSS }
   change_country_color = {
-      color = { 66  51  70 }
+      country = NSS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NNG }
   change_country_color = {
-      color = { 113  221  248 }
+      country = NNG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NVK }
   change_country_color = {
-      color = { 105  226  233 }
+      country = NVK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NZH }
   change_country_color = {
-      color = { 176  72  77 }
+      country = NZH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NKO }
   change_country_color = {
-      color = { 124 212 121 }
+      country = NKO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NOG }
   change_country_color = {
-      color = { 0 120 145 }
+      country = NOG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NOO }
   change_country_color = {
-      color = { 173  177  51 }
+      country = NOO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NRM }
   change_country_color = {
-      color = { 131  138  116 }
+      country = NRM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NHX }
   change_country_color = {
-      color = { 135  225  194 }
+      country = NHX
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NOL }
   change_country_color = {
-      color = { 83  149  105 }
+      country = NOL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NOR }
   change_country_color = {
-      color = { 117  165  188 }
+      country = NOR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NOV }
   change_country_color = {
-      color = { 97  126  37 }
+      country = NOV
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NBI }
   change_country_color = {
-      color = { 81  58  223 }
+      country = NBI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NUP }
   change_country_color = {
-      color = { 211  84  79 }
+      country = NUP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NUM }
   change_country_color = {
-      color = { 243  112  15 }
+      country = NUM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = OAH }
   change_country_color = {
-      color = { 150 130 65 }
+      country = OAH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ODA }
   change_country_color = {
-      color = { 224  4  27 }
+      country = ODA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = OGD }
   change_country_color = {
-      color = { 169 168 101 }
+      country = OGD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = OGS }
   change_country_color = {
-      color = { 201  126  145 }
+      country = OGS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = OHK }
   change_country_color = {
-      color = { 187 127 34 }
+      country = OHK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = OIR }
   change_country_color = {
-      color = { 204  184  177 }
+      country = OIR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = OJI }
   change_country_color = {
-      color = { 235 229 233 }
+      country = OJI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = OKA }
   change_country_color = {
-      color = { 43 136 207 }
+      country = OKA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = OLD }
   change_country_color = {
-      color = { 147  130  118 }
+      country = OLD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = OMA }
   change_country_color = {
-      color = { 98  134  153 }
+      country = OMA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ONE }
   change_country_color = {
-      color = { 79 44 187 }
+      country = ONE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = OEO }
   change_country_color = {
-      color = { 129 31 64 }
+      country = OEO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ONO }
   change_country_color = {
-      color = { 107 77 63 }
+      country = ONO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = OPL }
   change_country_color = {
-      color = { 117  140  36 }
+      country = OPL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ORI }
   change_country_color = {
-      color = { 210  106  47 }
+      country = ORI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ORL }
   change_country_color = {
-      color = { 216 121 139 }
+      country = ORL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ORD }
   change_country_color = {
-      color = { 220 227 43 }
+      country = ORD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ORM }
   change_country_color = {
-      color = { 234  233  124 }
+      country = ORM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = OSA }
   change_country_color = {
-      color = { 251 245 104 }
+      country = OSA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = OSH }
   change_country_color = {
-      color = { 134 175 31 }
+      country = OSH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = OSN }
   change_country_color = {
-      color = { 135  138  192 }
+      country = OSN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = OTO }
   change_country_color = {
-      color = { 68  127  241 } 
+      country = OTO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = OTM }
   change_country_color = {
-      color = { 123  71  65 }
+      country = OTM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = OTT }
   change_country_color = {
-      color = { 1 48 21 }
+      country = OTT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TUR }
   change_country_color = {
-      color = { 126  203  120 }
+      country = TUR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = OUC }
   change_country_color = {
-      color = { 216  145  145 }
+      country = OUC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ODH }
   change_country_color = {
-      color = { 122  179  97 }
+      country = ODH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = OYO }
   change_country_color = {
-      color = { 211  184  179 }
+      country = OYO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PCH }
   change_country_color = {
-      color = { 151 71 197 }
+      country = PCH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PCJ }
   change_country_color = {
-      color = { 126 147 196 }
+      country = PCJ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PAD }
   change_country_color = {
-      color = { 214  90  79 }
+      country = PAD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PDV }
   change_country_color = {
-      color = { 186 106 58 }
+      country = PDV
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PGR }
   change_country_color = {
-      color = { 255  186  0 }
+      country = PGR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PAH }
   change_country_color = {
-      color = { 98  186  171 }
+      country = PAH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PAL }
   change_country_color = {
-      color = { 57  151  142 }
+      country = PAL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PLW }
   change_country_color = {
-      color = { 102  75  50 }
+      country = PLW
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PLB }
   change_country_color = {
-      color = { 163  68  149 }
+      country = PLB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PTL }
   change_country_color = {
-      color = { 237 204 20 }
+      country = PTL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PGS }
   change_country_color = {
-      color = { 69  22  59 }
+      country = PGS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PAN }
   change_country_color = {
-      color = { 254 254 0 }
+      country = PAN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PAP }
   change_country_color = {
-      color = { 211  220  178 }
+      country = PAP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PRG }
   change_country_color = {
-      color = { 75  188  60 }
+      country = PRG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PRD }
   change_country_color = {
-      color = { 31 145 217  }
+      country = PRD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PAR }
   change_country_color = {
-      color = { 128  202  129 }
+      country = PAR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PSA }
   change_country_color = {
-      color = { 226  81  93 }
+      country = PSA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PSS }
   change_country_color = {
-      color = { 239  99  135 }
+      country = PSS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PTE }
   change_country_color = {
-      color = { 104  111  208 }
+      country = PTE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PTA }
   change_country_color = {
-      color = { 229  231  26 }
+      country = PTA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PTT }
   change_country_color = {
-      color = { 114 25 100 }
+      country = PTT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PAT }
   change_country_color = {
-      color = { 140  134  164 }
+      country = PAT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PAW }
   change_country_color = {
-      color = { 46 49 146 }
+      country = PAW
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PEG }
   change_country_color = {
-      color = { 140  210  160 }
+      country = PEG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PEN }
   change_country_color = {
-      color = { 1 90 168 }
+      country = PEN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PEO }
   change_country_color = {
-      color = { 67 18 187 }
+      country = PEO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PEQ }
   change_country_color = {
-      color = { 28 70 150 }
+      country = PEQ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PRK }
   change_country_color = {
-      color = { 76  122  117 }
+      country = PRK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PRM }
   change_country_color = {
-      color = { 236 159 90 }
+      country = PRM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PER }
   change_country_color = {
-      color = { 62  129  20 }
+      country = PER
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PEU }
   change_country_color = {
-      color = { 124  140  162 }
+      country = PEU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PGA }
   change_country_color = {
-      color = { 157 174 219 }
+      country = PGA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PHA }
   change_country_color = {
-      color = { 93  102  151 }
+      country = PHA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PIC }
   change_country_color = {
-      color = { 184 184 122 }
+      country = PIC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PIM }
   change_country_color = {
-      color = { 163 98 9 }
+      country = PIM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PIR }
   change_country_color = {
-      color = { 10  10  10 }
+      country = PIR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PIS }
   change_country_color = {
-      color = { 177  150  109 }
+      country = PIS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = POL }
   change_country_color = {
-      color = { 197  92  106 }
+      country = POL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PLT }
   change_country_color = {
-      color = { 16  113  155 }
+      country = PLT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = POM }
   change_country_color = {
-      color = { 61  136  66 }
+      country = POM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PRB }
   change_country_color = {
-      color = { 181 36 203 }
+      country = PRB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PRY }
   change_country_color = {
-      color = { 151  47  32 }
+      country = PRY
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = POR }
   change_country_color = {
-      color = { 40 110 140 }
+      country = POR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = POT }
   change_country_color = {
-      color = { 60 184 120 }
+      country = POT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PTG }
   change_country_color = {
-      color = { 31 164 122 }
+      country = PTG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = POW }
   change_country_color = {
-      color = { 255 247 153 }
+      country = POW
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ACH }
   change_country_color = {
-      color = { 255  213  51 }
+      country = ACH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BPR }
   change_country_color = {
-      color = { 155  3  22 }
+      country = BPR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PRO }
   change_country_color = {
-      color = { 93  160  163 }
+      country = PRO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PRU }
   change_country_color = {
-      #color = { 143  141  128 }
+      country = PRU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PSK }
   change_country_color = {
-      color = { 82  123  95 }
+      country = PSK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PUE }
   change_country_color = {
-      color = { 162 128 8 }
+      country = PUE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PUN }
   change_country_color = {
-      color = { 187  79  86 }
+      country = PUN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = QAR }
   change_country_color = {
-      color = { 54 117 136  } 
+      country = QAR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = QAS }
   change_country_color = {
-      color = { 82  135  124 }
+      country = QAS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = QIC }
   change_country_color = {
-      color = { 58  168  113 }
+      country = QIC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = QIN }
   change_country_color = {
-      color = { 39 125 143 }
+      country = QIN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = QNG }
   change_country_color = {
-      color = { 237  152  18 }
+      country = QNG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = QOM }
   change_country_color = {
-      color = { 107 107 225 }
+      country = QOM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = QUE }
   change_country_color = {
-      color = { 194  140  86 }
+      country = QUE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = QTO }
   change_country_color = {
-      color = { 196  126  126 }
+      country = QTO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = QUI }
   change_country_color = {
-      color = { 31 239 121 }
+      country = QUI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = RAG }
   change_country_color = {
-      color = { 160  82  128 }
+      country = RAG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = RJK }
   change_country_color = {
-      color = { 20 237 86 }
+      country = RJK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = RJP }
   change_country_color = {
-      color = { 49  13  22 }
+      country = RJP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = RAM }
   change_country_color = {
-      color = { 130  0  0 }
+      country = RAM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = RAS }
   change_country_color = {
-      color = { 205 10 10 }
+      country = RAS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = RTT }
   change_country_color = {
-      color = { 66 126 118 }
+      country = RTT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = RVA }
   change_country_color = {
-      color = { 108  139  228 }
+      country = RVA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = REB }
   change_country_color = {
-      color = { 30  30  30 }
+      country = REB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = REG }
   change_country_color = {
-      color = { 221  41  111 }
+      country = REG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CMP }
   change_country_color = {
-      color = { 69  131  62 }
+      country = CMP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = RHA }
   change_country_color = {
-      color = { 218 113 11 }
+      country = RHA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = RIG }
   change_country_color = {
-      color = { 183  176  194 }
+      country = RIG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = RMP }
   change_country_color = {
-      color = { 89  84  255 }
+      country = RMP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ROM }
   change_country_color = {
-      color = { 167 10 100 }
+      country = ROM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = RMN }
   change_country_color = {
-      color = { 21  96  178 }
+      country = RMN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = RSO }
   change_country_color = {
-      color = { 227 221 77 }
+      country = RSO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ROT }
   change_country_color = {
-      color = { 210  15  15 }
+      country = ROT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = RZI }
   change_country_color = {
-      color = { 204  121  68 }
+      country = RZI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = RUG }
   change_country_color = {
-      color = { 51  59  76 }
+      country = RUG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = RUM }
   change_country_color = {
-      color = { 30 160 203 }
+      country = RUM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = RUP }
   change_country_color = {
-      color = { 136  48  66 }
+      country = RUP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = RUS }
   change_country_color = {
-      color = { 96  131  80 }
+      country = RUS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = RWA }
   change_country_color = {
-      color = { 213 160 18 }
+      country = RWA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = RYA }
   change_country_color = {
-      color = { 146  134  77 }
+      country = RYA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = RYU }
   change_country_color = {
-      color = { 90  138  133 }
+      country = RYU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SDY }
   change_country_color = {
-      color = { 63  115  37 }
+      country = SDY
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SKA }
   change_country_color = {
-      color = { 43 121 188 }
+      country = SKA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SLE }
   change_country_color = {
-      color = { 246  103  94 }
+      country = SLE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SAL }
   change_country_color = {
-      color = { 0 74 128 } 
+      country = SAL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SZO }
   change_country_color = {
-      color = { 137 185 203 }
+      country = SZO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SLZ }
   change_country_color = {
-      color = { 129  109  9 }
+      country = SLZ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SBP }
   change_country_color = {
-      color = { 116 207 75 }
+      country = SBP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SMB }
   change_country_color = {
-      color = { 255  89  4 }
+      country = SMB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SMI }
   change_country_color = {
-      color = { 252  209  22 }
+      country = SMI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SAM }
   change_country_color = {
-      color = { 100 55 55 }
+      country = SAM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SME }
   change_country_color = {
-      color = { 22 157 57 }
+      country = SME
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SAR }
   change_country_color = {
-      color = { 117  146  167 }
+      country = SAR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SPI }
   change_country_color = {
-      color = { 97  209  251 }
+      country = SPI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SYG }
   change_country_color = {
-      color = { 219  206  94 }
+      country = SYG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SRU }
   change_country_color = {
-      color = { 0  123  12 }
+      country = SRU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = STK }
   change_country_color = {
-      color = { 2  135   96 }
+      country = STK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SAT }
   change_country_color = {
-      color = { 172 105 47}
+      country = SAT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SAV }
   change_country_color = {
-      color = { 235  196 231 }
+      country = SAV
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SAX }
   change_country_color = {
-      color = { 155  147  180 }
+      country = SAX
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SCA }
   change_country_color = {
-      color = { 62  122  189 }
+      country = SCA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SWI }
   change_country_color = {
-      color = { 153  122  108 }
+      country = SWI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SCO }
   change_country_color = {
-      color = { 199  175  12 }
+      country = SCO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = BTI }
   change_country_color = {
-      color = { 232  121  145 }
+      country = BTI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SEN }
   change_country_color = {
-      color = { 189 153 176 }
+      country = SEN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SER }
   change_country_color = {
-      color = { 166  72  57 }
+      country = SER
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SHM }
   change_country_color = {
-      color = { 255  204  45 }
+      country = SHM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SST }
   change_country_color = {
-      color = { 250 240 215 }
+      country = SST
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SHR }
   change_country_color = {
-      color = { 64  120  172 }
+      country = SHR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SHA }
   change_country_color = {
-      color = { 212  105  118 } 
+      country = SHA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SHY }
   change_country_color = {
-      color = { 89  134  166 } 
+      country = SHY
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SOA }
   change_country_color = {
-      color = { 1 200 200 }
+      country = SOA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SBA }
   change_country_color = {
-      color = { 0  163  175 }
+      country = SBA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SMZ }
   change_country_color = {
-      color = { 101  49  142 }
+      country = SMZ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SRV }
   change_country_color = {
-      color = { 98  206  253 }
+      country = SRV
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SHN }
   change_country_color = {
-      color = { 89  185  198 }
+      country = SHN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SHO }
   change_country_color = {
-      color = { 124  69  49 } 
+      country = SHO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SHU }
   change_country_color = {
-      color = { 167  33  62 }
+      country = SHU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CSH }
   change_country_color = {
-      color = { 140  169  183 }
+      country = CSH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SAK }
   change_country_color = {
-      color = { 21  196  68 }
+      country = SAK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SIA }
   change_country_color = {
-      color = { 89 194 221 }
+      country = SIA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SIB }
   change_country_color = {
-      color = { 139  138  160 }
+      country = SIB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SIC }
   change_country_color = {
-      color = { 73  152  76 }
+      country = SIC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SIE }
   change_country_color = {
-      color = { 165  171  115 }
+      country = SIE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SKK }
   change_country_color = {
-      color = { 93  180  76 }
+      country = SKK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SIL }
   change_country_color = {
-      color = { 84  166  93 }
+      country = SIL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SND }
   change_country_color = {
-      color = { 135  104  85 }
+      country = SND
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SIO }
   change_country_color = {
-      color = { 68 14 98 }
+      country = SIO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SRH }
   change_country_color = {
-      color = { 249 120 3 }
+      country = SRH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SRM }
   change_country_color = {
-      color = { 229 69 12 }
+      country = SRM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SIS }
   change_country_color = {
-      color = { 224 74 54 }
+      country = SIS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SLN }
   change_country_color = {
-      color = { 191 155 203 }
+      country = SLN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SLO }
   change_country_color = {
-      color = { 34 131 193 }
+      country = SLO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SMO }
   change_country_color = {
-      color = { 106  160  43 }
+      country = SMO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SOO }
   change_country_color = {
-      color = { 231  96  158 }
+      country = SOO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SOF }
   change_country_color = {
-      color = { 55  108  158 }
+      country = SOF
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SFA }
   change_country_color = {
-      color = { 249  140  15 }
+      country = SFA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SOK }
   change_country_color = {
-      color = { 201  19  70 }
+      country = SOK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SOL }
   change_country_color = {
-      color = { 32  119  115 }
+      country = SOL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SOM }
   change_country_color = {
-      color = { 54 145 171 }
+      country = SOM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SON }
   change_country_color = {
-      color = { 62  175  151 }
+      country = SON
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SNA }
   change_country_color = {
-      color = { 235  135  15 }
+      country = SNA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SOR }
   change_country_color = {
-      color = { 67  80  128 }
+      country = SOR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SYO }
   change_country_color = {
-      color = { 199  60  139 }
+      country = SYO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SPA }
   change_country_color = {
-      color = { 231  181  12 }
+      country = SPA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SPL }
   change_country_color = {
-      color = { 169 26 5 }
+      country = SPL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = STA }
   change_country_color = {
-      color = { 92 235 29 }
+      country = STA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = STE }
   change_country_color = {
-      color = { 33  119  58 }
+      country = STE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = STY }
   change_country_color = {
-      color = { 59  126  59 }
+      country = STY
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SUK }
   change_country_color = {
-      color = { 159  127  255 }
+      country = SUK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SUL }
   change_country_color = {
-      color = { 89  164  144 }
+      country = SUL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SUN }
   change_country_color = {
-      color = { 32  131  135 }
+      country = SUN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SRG }
   change_country_color = {
-      color = { 60 222 75 }
+      country = SRG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SOS }
   change_country_color = {
-      color = { 255  255  240 } 
+      country = SOS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SUS }
   change_country_color = {
-      color = { 126  24  62 }
+      country = SUS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SWA }
   change_country_color = {
-      color = { 225  98  87 }
+      country = SWA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ZAN }
   change_country_color = {
-      color = { 81  141  85 }
+      country = ZAN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SWE }
   change_country_color = {
-      color = { 8  82  165 }
+      country = SWE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SYN }
   change_country_color = {
-      color = { 64  64  64 }
+      country = SYN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = SYR }
   change_country_color = {
-      color = { 125  110  225 }
+      country = SYR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TAB }
   change_country_color = {
-      color = { 217 144 88 }
+      country = TAB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TBR }
   change_country_color = {
-      color = { 212 80 154 }
+      country = TBR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TFL }
   change_country_color = {
-      color = { 140 45 100 } 
+      country = TFL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TAH }
   change_country_color = {
-      color = { 59 57 118 }
+      country = TAH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TAN }
   change_country_color = {
-      color = { 110 50 50 }
+      country = TAN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TAI }
   change_country_color = {
-      color = { 114  36  222 }
+      country = TAI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TKD }
   change_country_color = {
-      color = { 234  85  6 }
+      country = TKD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TAK }
   change_country_color = {
-      color = { 145 218 120 }
+      country = TAK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TNG }
   change_country_color = {
-      color = { 208  119  102 }
+      country = TNG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TNJ }
   change_country_color = {
-      color = { 203  32  82 }
+      country = TNJ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TUA }
   change_country_color = {
-      color = { 193 180 66 }
+      country = TUA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TNK }
   change_country_color = {
-      color = { 235 190 110 }
+      country = TNK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TAR }
   change_country_color = {
-      color = { 158  18  20 }
+      country = TAR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TAU }
   change_country_color = {
-      color = { 232 214 9 }
+      country = TAU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TEA }
   change_country_color = {
-      color = { 200 215 130 }
+      country = TEA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TLG }
   change_country_color = {
-      color = { 158 164 225 }
+      country = TLG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TEN }
   change_country_color = {
-      color = { 234  121  123 }
+      country = TEN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TEO }
   change_country_color = {
-      color = { 213 128 46 } 
+      country = TEO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TER }
   change_country_color = {
-      color = { 176  232  64 }
+      country = TER
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TTT }
   change_country_color = {
-      color = { 162 0 130 }
+      country = TTT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TET }
   change_country_color = {
-      color = { 63  82  1 }
+      country = TET
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TEU }
   change_country_color = {
-      color = { 102  105  104 }
+      country = TEU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TEX }
   change_country_color = {
-      color = { 173  22  27 }
+      country = TEX
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = PLC }
   change_country_color = {
-      color = { 176  81  111 }
+      country = PLC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = LOI }
   change_country_color = {
-      color = { 0 105 104 }
+      country = LOI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = FEO }
   change_country_color = {
-      color = { 61 8 81 } 
+      country = FEO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TTL }
   change_country_color = {
-      color = { 153  240  182 }
+      country = TTL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = THU }
   change_country_color = {
-      color = { 66  126  157}
+      country = THU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TIB }
   change_country_color = {
-      color = { 177  207  205 }
+      country = TIB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TID }
   change_country_color = {
-      color = { 135  186  186 }
+      country = TID
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TMB }
   change_country_color = {
-      color = { 230  231  62 }
+      country = TMB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TIM }
   change_country_color = {
-      color = { 213 0 39 }
+      country = TIM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TIO }
   change_country_color = {
-      color = { 94 181 212 }
+      country = TIO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TRT }
   change_country_color = {
-      color = { 50  166  72 }
+      country = TRT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TIR }
   change_country_color = {
-      color = { 170 43 21 }
+      country = TIR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TIW }
   change_country_color = {
-      color = { 55  135  17 }
+      country = TIW
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TLA }
   change_country_color = {
-      color = { 58  118  120 }
+      country = TLA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TLX }
   change_country_color = {
-      color = { 148  149  21 } 
+      country = TLX
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TLC }
   change_country_color = {
-      color = { 57  160  101 }
+      country = TLC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TKI }
   change_country_color = {
-      color = { 86  84   162 }
+      country = TKI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TKG }
   change_country_color = {
-      color = { 47  93  80 }
+      country = TKG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TON }
   change_country_color = {
-      color = { 98  149  121 } 
+      country = TON
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TDO }
   change_country_color = {
-      color = { 123  122  20 }
+      country = TDO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TOG }
   change_country_color = {
-      color = { 225 200 95 }
+      country = TOG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TOK }
   change_country_color = {
-      color = { 81  144  126 }
+      country = TOK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TOR }
   change_country_color = {
-      color = { 67  81  55 }
+      country = TOR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TOT }
   change_country_color = {
-      color = { 48  49  121 } 
+      country = TOT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TGT }
   change_country_color = {
-      color = { 90 140 190 } 
+      country = TGT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TOU }
   change_country_color = {
-      color = { 127  170  146 }
+      country = TOU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TRS }
   change_country_color = {
-      color = { 49  185  191 }
+      country = TRS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TRA }
   change_country_color = {
-      color = { 211  207  173 }
+      country = TRA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TRE }
   change_country_color = {
-      color = { 40  164  157 } 
+      country = TRE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TNT }
   change_country_color = {
-      color = { 148  122  151 }
+      country = TNT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TRI }
   change_country_color = {
-      color = { 208  104  44 }
+      country = TRI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TRP }
   change_country_color = {
-      color = { 25  105  90 } 
+      country = TRP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TPR }
   change_country_color = {
-      color = { 211  95  73 }
+      country = TPR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TTI }
   change_country_color = {
-      color = { 88  56   34 }
+      country = TTI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TBK }
   change_country_color = {
-      color = { 161 224 201 }
+      country = TBK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TUN }
   change_country_color = {
-      color = { 146  134  57 }
+      country = TUN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TPA }
   change_country_color = {
-      color = { 157 209 192 }
+      country = TPA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TPQ }
   change_country_color = {
-      color = { 212 111 84 }
+      country = TPQ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TUS }
   change_country_color = {
-      color = { 84  96  136 } 
+      country = TUS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TSC }
   change_country_color = {
-      color = { 61 126 252 }
+      country = TSC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TVE }
   change_country_color = {
-      color = { 136  158  183 }
+      country = TVE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TTS }
   change_country_color = {
-      color = { 154  153  157 }
+      country = TTS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TYO }
   change_country_color = {
-      color = { 99  160  139 }
+      country = TYO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TRY }
   change_country_color = {
-      color = { 43 190 227 }
+      country = TRY
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = TYR }
   change_country_color = {
-      color = { 131  101  85 }
+      country = TYR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = UES }
   change_country_color = {
-      color = { 200  200  200 }
+      country = UES
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = UKR }
   change_country_color = {
-      color = { 124  183  151 }
+      country = UKR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ULM }
   change_country_color = {
-      color = { 202 202 202}
+      country = ULM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ULS }
   change_country_color = {
-      color = { 234 214 165 }
+      country = ULS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CAM }
   change_country_color = {
-      color = { 204  186  201 }
+      country = CAM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = URB }
   change_country_color = {
-      color = { 61  152  180 }
+      country = URB
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = USA }
   change_country_color = {
-      color = { 69  157  208 }
+      country = USA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = UTR }
   change_country_color = {
-      color = { 223  198  64 }
+      country = UTR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = UTS }
   change_country_color = {
-      color = { 38  101  255 }
+      country = UTS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = UTN }
   change_country_color = {
-      color = { 222  183  97 }
+      country = UTN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = VAL }
   change_country_color = {
-      color = { 132  97  138 }
+      country = VAL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = VNL }
   change_country_color = {
-      color = { 195 90 135 }
+      country = VNL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = VND }
   change_country_color = {
-      color = { 134  166  117 }
+      country = VND
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = VNZ }
   change_country_color = {
-      color = { 213  82  109 }
+      country = VNZ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = VEN }
   change_country_color = {
-      color = { 54  167  156 }
+      country = VEN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = VER }
   change_country_color = {
-      color = { 227 211 34 }
+      country = VER
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = VRM }
   change_country_color = {
-      color = { 50  120  10 }
+      country = VRM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = VRN }
   change_country_color = {
-      color = { 121 163 114 }
+      country = VRN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = VIE }
   change_country_color = {
-      color = { 151  174  28 }
+      country = VIE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = VIJ }
   change_country_color = {
-      color = { 246 196 24 }
+      country = VIJ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = VIL }
   change_country_color = {
-      color = { 240 160 100 }
+      country = VIL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = VIT }
   change_country_color = {
-      color = { 130 180 215 }
+      country = VIT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = VOL }
   change_country_color = {
-      color = { 205 38 38 }
+      country = VOL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = WAD }
   change_country_color = {
-      color = { 166  161  139 }
+      country = WAD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = WGD }
   change_country_color = {
-      color = { 40  152  60 }
+      country = WGD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = WAI }
   change_country_color = {
-      color = { 200 200 200 }
+      country = WAI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = WLS }
   change_country_color = {
-      color = { 117  127  174 }
+      country = WLS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = WAL }
   change_country_color = {
-      color = { 161  126  128 }
+      country = WAL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = WAM }
   change_country_color = {
-      color = { 95 5 210 }
+      country = WAM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = WKA }
   change_country_color = {
-      color = { 224  214  157 }
+      country = WKA
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = WAR }
   change_country_color = {
-      color = { 18 97 128 }
+      country = WAR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = WLY }
   change_country_color = {
-      color = { 202  200  175 }
+      country = WLY
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = WEN }
   change_country_color = {
-      color = { 220 130 127 }
+      country = WEN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = WES }
   change_country_color = {
-      color = { 231  230  138 }
+      country = WES
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = WSI }
   change_country_color = {
-      color = { 86  195  80 }
+      country = WSI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = WIC }
   change_country_color = {
-      color = { 121  10  215 } 
+      country = WIC
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = WCY }
   change_country_color = {
-      color = { 91 72 141 }
+      country = WCY
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = WOL }
   change_country_color = {
-      color = { 235  178  18 }
+      country = WOL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = WUU }
   change_country_color = {
-      color = { 126  87  198 }
+      country = WUU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = WUR }
   change_country_color = {
-      color = { 111  162  128 }
+      country = WUR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = WRU }
   change_country_color = {
-      color = { 101  138  42 }
+      country = WRU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = WBG }
   change_country_color = {
-      color = { 147  146  106 }
+      country = WBG
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = XAL }
   change_country_color = {
-      color = { 98  49  221 } 
+      country = XAL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CXI }
   change_country_color = {
-      color = { 140  183  154 }
+      country = CXI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = XIU }
   change_country_color = {
-      color = { 94  236  91 }
+      country = XIU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = YAK }
   change_country_color = {
-      color = { 99  160  239 }
+      country = YAK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = YMN }
   change_country_color = {
-      color = { 140  72  128 }
+      country = YMN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = YAN }
   change_country_color = {
-      color = { 219  44  21 }
+      country = YAN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = YNU }
   change_country_color = {
-      color = { 230  145  62 }
+      country = YNU
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = YAO }
   change_country_color = {
-      color = { 130  31  72 }
+      country = YAO
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = YAQ }
   change_country_color = {
-      color = { 127 32 49 } 
+      country = YAQ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = KAS }
   change_country_color = {
-      color = { 255 245 220 }
+      country = KAS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = YAR }
   change_country_color = {
-      color = { 131  141  142 }
+      country = YAR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = YAS }
   change_country_color = {
-      color = { 239 125 125 }
+      country = YAS
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = YAT }
   change_country_color = {
-      color = { 77 231 25 }
+      country = YAT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = YZD }
   change_country_color = {
-      color = { 239 164 19 }
+      country = YZD
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = YEM }
   change_country_color = {
-      color = { 106 38 44 }
+      country = YEM
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = MYR }
   change_country_color = {
-      color = { 16  156  27 }
+      country = MYR
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CYI }
   change_country_color = {
-      color = { 205  104  18 }
+      country = CYI
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = YOK }
   change_country_color = {
-      color = { 64  106  191 }
+      country = YOK
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = YKT }
   change_country_color = {
-      color = { 172 232 149 } 
+      country = YKT
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = YOL }
   change_country_color = {
-      color = { 120  85  160 }
+      country = YOL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = YUE }
   change_country_color = {
-      color = { 89  113  223 }
+      country = YUE
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ZAF }
   change_country_color = {
-      color = { 155  88  127 }
+      country = ZAF
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ZND }
   change_country_color = {
-      color = { 184  151  191 }
+      country = ZND
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ZAZ }
   change_country_color = {
-      color = { 117  112  131 }
+      country = ZAZ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ZAP }
   change_country_color = {
-      color = { 158  118  120 }
+      country = ZAP
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ZZZ }
   change_country_color = {
-      color = { 138 22 59 }
+      country = ZZZ
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = NZL }
   change_country_color = {
-      color = { 152  130  191 }
+      country = NZL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = CZH }
   change_country_color = {
-      color = { 209  212  126 }
+      country = CZH
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ZUL }
   change_country_color = {
-      color = { 177  12  12 }
+      country = ZUL
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ZUN }
   change_country_color = {
-      color = { 129 97 62  }
+      country = ZUN
   }
   set_country_flag = has_overriden_color_flag
 }
 if = {
   limit = { was_tag = ZNI }
   change_country_color = {
-      color = { 62 128 108 }
+      country = ZNI
   }
   set_country_flag = has_overriden_color_flag
 }
-
-
-		}
-		ai_will_do = {
-			factor = 2
-		}
-		ai_importance = 400
-	}
+if = {
+  limit = { was_tag = D00 }
+  change_country_color = {
+      country = D00
+  }
+  set_country_flag = has_overriden_color_flag
+}
+if = {
+  limit = { was_tag = D01 }
+  change_country_color = {
+      country = D01
+  }
+  set_country_flag = has_overriden_color_flag
+}
+if = {
+  limit = { was_tag = D02 }
+  change_country_color = {
+      country = D02
+  }
+  set_country_flag = has_overriden_color_flag
+}
+if = {
+  limit = { was_tag = D03 }
+  change_country_color = {
+      country = D03
+  }
+  set_country_flag = has_overriden_color_flag
+}
+if = {
+  limit = { was_tag = D04 }
+  change_country_color = {
+      country = D04
+  }
+  set_country_flag = has_overriden_color_flag
+}
+if = {
+  limit = { was_tag = D05 }
+  change_country_color = {
+      country = D05
+  }
+  set_country_flag = has_overriden_color_flag
+}
+if = {
+  limit = { was_tag = D06 }
+  change_country_color = {
+      country = D06
+  }
+  set_country_flag = has_overriden_color_flag
+}
+if = {
+  limit = { was_tag = D07 }
+  change_country_color = {
+      country = D07
+  }
+  set_country_flag = has_overriden_color_flag
+}
+if = {
+  limit = { was_tag = D08 }
+  change_country_color = {
+      country = D08
+  }
+  set_country_flag = has_overriden_color_flag
+}
+if = {
+  limit = { was_tag = D09 }
+  change_country_color = {
+      country = D09
+  }
+  set_country_flag = has_overriden_color_flag
+}
+        }
+        ai_will_do = {
+            factor = 2
+        }
+         ai_importance = 400
+    }
 }
