@@ -1,1 +1,4 @@
-/modtools/
+/modtools/bin/
+/modtools/CountryBuilder/
+modtools/source/~$countries.xlsx
+*.psd

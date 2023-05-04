@@ -1,0 +1,21 @@
+country_decisions = {
+	will_ai_change_color {
+	        major = yes
+        	potential = {
+			AND = { 
+				ai = no
+				NOT = { has_global_flag = ai_change_color_chosen }
+				NOT = { 
+					is_year = 1447
+				}
+			}
+
+		} 
+		effect { 
+			country_event = {
+				id = ai_change_color_event.1
+			}
+			set_global_flag = ai_change_color_chosen
+		}
+	}
+}

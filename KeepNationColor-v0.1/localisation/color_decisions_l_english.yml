@@ -1,0 +1,9 @@
+﻿l_english:
+ change_back_color_nation_title:0 "Restore Color to Former Nation"
+ change_back_color_nation_desc:0 "Restore Color to Former Nation"
+ will_ai_change_color_title:0 "Can AI to Change Color"
+ will_ai_change_color_desc:0 "Decide if the AI is also allowed to the former nation's color.\n This will disapear after 2 in-game years.\n By default the AI will NOT be able to change colors"
+ ai_change_color_event.1.t:0 "Is AI allowed to change colors?"
+ ai_change_color_event.1.d:0 "Thanks for trying out this mod!\n\nThis decision allows you to chose whether the ai is allowed to switch colors to the former nation or just you!"
+ ai_change_color_event.1.a:0 "For sure!"
+ ai_change_color_event.1.b:0 "No! Only I can have the power!"

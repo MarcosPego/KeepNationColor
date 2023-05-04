@@ -1,0 +1,14 @@
+Biapis.txt
+Dakota.txt
+Limbdi.txt
+Morang.txt
+Nsenga.txt
+Xhosa.txt
+Kebbi.txt
+Zamfara.txt
+Gobir.txt
+Biram.txt
+Jomsvikings.txt
+Hashshashin.txt
+KnightsTemplar.txt
+Trapalanda.txt

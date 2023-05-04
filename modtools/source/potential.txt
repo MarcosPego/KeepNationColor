@@ -1,0 +1,8820 @@
+AND = {
+ NOT = { tag = AAC }
+ was_tag = AAC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ABE }
+ was_tag = ABE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ABI }
+ was_tag = ABI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ACO }
+ was_tag = ACO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ADA }
+ was_tag = ADA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ADE }
+ was_tag = ADE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AFA }
+ was_tag = AFA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AFG }
+ was_tag = AFG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AHM }
+ was_tag = AHM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ANU }
+ was_tag = ANU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AIR }
+ was_tag = AIR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AJU }
+ was_tag = AJU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AKM }
+ was_tag = AKM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AKK }
+ was_tag = AKK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AKS }
+ was_tag = AKS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ALA }
+ was_tag = ALA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ALB }
+ was_tag = ALB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ALE }
+ was_tag = ALE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ALG }
+ was_tag = ALG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AGQ }
+ was_tag = AGQ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ALO }
+ was_tag = ALO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ALS }
+ was_tag = ALS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ALT }
+ was_tag = ALT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AMA }
+ was_tag = AMA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ADU }
+ was_tag = ADU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = YOR }
+ was_tag = YOR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AKT }
+ was_tag = AKT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AVE }
+ was_tag = AVE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ANH }
+ was_tag = ANH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ANL }
+ was_tag = ANL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ANZ }
+ was_tag = ANZ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ANN }
+ was_tag = ANN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ANS }
+ was_tag = ANS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ANT }
+ was_tag = ANT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AOT }
+ was_tag = AOT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = APA }
+ was_tag = APA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AQU }
+ was_tag = AQU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ARB }
+ was_tag = ARB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ARA }
+ was_tag = ARA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ARK }
+ was_tag = ARK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ARP }
+ was_tag = ARP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ARW }
+ was_tag = ARW
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ARL }
+ was_tag = ARL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ARD }
+ was_tag = ARD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ARN }
+ was_tag = ARN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AMG }
+ was_tag = AMG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ARM }
+ was_tag = ARM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ASA }
+ was_tag = ASA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ASH }
+ was_tag = ASH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ASK }
+ was_tag = ASK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ASS }
+ was_tag = ASS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ASI }
+ was_tag = ASI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AST }
+ was_tag = AST
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ASU }
+ was_tag = ASU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ATA }
+ was_tag = ATA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ATH }
+ was_tag = ATH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ATJ }
+ was_tag = ATJ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ATT }
+ was_tag = ATT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AGG }
+ was_tag = AGG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ATW }
+ was_tag = ATW
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AUG }
+ was_tag = AUG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AUS }
+ was_tag = AUS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AUV }
+ was_tag = AUV
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AVA }
+ was_tag = AVA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AVR }
+ was_tag = AVR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AVI }
+ was_tag = AVI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AWN }
+ was_tag = AWN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AYD }
+ was_tag = AYD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AYU }
+ was_tag = AYU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HSN }
+ was_tag = HSN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = AZT }
+ was_tag = AZT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BAD }
+ was_tag = BAD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BGL }
+ was_tag = BGL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BGA }
+ was_tag = BGA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BAH }
+ was_tag = BAH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BLI }
+ was_tag = BLI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BAL }
+ was_tag = BAL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BAM }
+ was_tag = BAM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BNJ }
+ was_tag = BNJ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BAN }
+ was_tag = BAN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BAR }
+ was_tag = BAR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BDA }
+ was_tag = BDA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BRS }
+ was_tag = BRS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BSH }
+ was_tag = BSH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BSG }
+ was_tag = BSG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BSR }
+ was_tag = BSR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BST }
+ was_tag = BST
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BYT }
+ was_tag = BYT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BEJ }
+ was_tag = BEJ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BLO }
+ was_tag = BLO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BNG }
+ was_tag = BNG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BEN }
+ was_tag = BEN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BRR }
+ was_tag = BRR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BEU }
+ was_tag = BEU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BRG }
+ was_tag = BRG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BER }
+ was_tag = BER
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BTS }
+ was_tag = BTS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BHA }
+ was_tag = BHA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BHU }
+ was_tag = BHU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BPI }
+ was_tag = BPI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BIJ }
+ was_tag = BIJ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MBL }
+ was_tag = MBL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BTL }
+ was_tag = BTL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BLA }
+ was_tag = BLA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BLM }
+ was_tag = BLM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BOH }
+ was_tag = BOH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BHT }
+ was_tag = BHT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BLG }
+ was_tag = BLG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BNE }
+ was_tag = BNE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BON }
+ was_tag = BON
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BOS }
+ was_tag = BOS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BOU }
+ was_tag = BOU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BRB }
+ was_tag = BRB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BRA }
+ was_tag = BRA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BRZ }
+ was_tag = BRZ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BRE }
+ was_tag = BRE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BRI }
+ was_tag = BRI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BEI }
+ was_tag = BEI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BRU }
+ was_tag = BRU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BUG }
+ was_tag = BUG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = UBH }
+ was_tag = UBH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BUK }
+ was_tag = BUK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BUL }
+ was_tag = BUL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BND }
+ was_tag = BND
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BNY }
+ was_tag = BNY
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MAM }
+ was_tag = MAM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BUR }
+ was_tag = BUR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BUU }
+ was_tag = BUU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BRT }
+ was_tag = BRT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BTN }
+ was_tag = BTN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = RZW }
+ was_tag = RZW
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BTU }
+ was_tag = BTU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CAD }
+ was_tag = CAD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CAO }
+ was_tag = CAO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CJA }
+ was_tag = CJA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CCQ }
+ was_tag = CCQ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CLB }
+ was_tag = CLB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CAL }
+ was_tag = CAL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CNP }
+ was_tag = CNP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CAN }
+ was_tag = CAN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CND }
+ was_tag = CND
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CAB }
+ was_tag = CAB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KRK }
+ was_tag = KRK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CSC }
+ was_tag = CSC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CAQ }
+ was_tag = CAQ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CAS }
+ was_tag = CAS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CAT }
+ was_tag = CAT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CAY }
+ was_tag = CAY
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CEB }
+ was_tag = CEB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CEY }
+ was_tag = CEY
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CYA }
+ was_tag = CYA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CTM }
+ was_tag = CTM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CHG }
+ was_tag = CHG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CHH }
+ was_tag = CHH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CLG }
+ was_tag = CLG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CHA }
+ was_tag = CHA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CHP }
+ was_tag = CHP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CHK }
+ was_tag = CHK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CHD }
+ was_tag = CHD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CGS }
+ was_tag = CGS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CRA }
+ was_tag = CRA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CUA }
+ was_tag = CUA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CHV }
+ was_tag = CHV
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CHR }
+ was_tag = CHR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CHE }
+ was_tag = CHE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CHY }
+ was_tag = CHY
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CIA }
+ was_tag = CIA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CBA }
+ was_tag = CBA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CCM }
+ was_tag = CCM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CHI }
+ was_tag = CHI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CHL }
+ was_tag = CHL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CHM }
+ was_tag = CHM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CNK }
+ was_tag = CNK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CCA }
+ was_tag = CCA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CHO }
+ was_tag = CHO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CKW }
+ was_tag = CKW
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CHT }
+ was_tag = CHT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CSK }
+ was_tag = CSK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CHC }
+ was_tag = CHC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CHU }
+ was_tag = CHU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CLI }
+ was_tag = CLI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CIR }
+ was_tag = CIR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CRB }
+ was_tag = CRB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = COB }
+ was_tag = COB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = COC }
+ was_tag = COC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = COF }
+ was_tag = COF
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = COI }
+ was_tag = COI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CLM }
+ was_tag = CLM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CLA }
+ was_tag = CLA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KOL }
+ was_tag = KOL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = COL }
+ was_tag = COL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = COM }
+ was_tag = COM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CNN }
+ was_tag = CNN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = COO }
+ was_tag = COO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CEP }
+ was_tag = CEP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CRN }
+ was_tag = CRN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = COR }
+ was_tag = COR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = COW }
+ was_tag = COW
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = WCR }
+ was_tag = WCR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CRE }
+ was_tag = CRE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CRT }
+ was_tag = CRT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CRI }
+ was_tag = CRI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CUB }
+ was_tag = CUB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CSU }
+ was_tag = CSU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CYP }
+ was_tag = CYP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = DGB }
+ was_tag = DGB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = DAH }
+ was_tag = DAH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = DAI }
+ was_tag = DAI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CDL }
+ was_tag = CDL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = DAM }
+ was_tag = DAM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = DNG }
+ was_tag = DNG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = DNZ }
+ was_tag = DNZ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = DAR }
+ was_tag = DAR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = DTE }
+ was_tag = DTE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = DAU }
+ was_tag = DAU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = DAW }
+ was_tag = DAW
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = DEC }
+ was_tag = DEC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = DLI }
+ was_tag = DLI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = DMK }
+ was_tag = DMK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = DAN }
+ was_tag = DAN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = DMS }
+ was_tag = DMS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = DHU }
+ was_tag = DHU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = DTT }
+ was_tag = DTT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = DWT }
+ was_tag = DWT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ABB }
+ was_tag = ABB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = DTI }
+ was_tag = DTI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = DUL }
+ was_tag = DUL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = EFR }
+ was_tag = EFR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = EIC }
+ was_tag = EIC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = EJZ }
+ was_tag = EJZ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = EGY }
+ was_tag = EGY
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ENA }
+ was_tag = ENA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = EOR }
+ was_tag = EOR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = EPI }
+ was_tag = EPI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ERE }
+ was_tag = ERE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ERI }
+ was_tag = ERI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = EST }
+ was_tag = EST
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ETO }
+ was_tag = ETO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ETR }
+ was_tag = ETR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = FAD }
+ was_tag = FAD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = FLY }
+ was_tag = FLY
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = FRS }
+ was_tag = FRS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = FER }
+ was_tag = FER
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = FEZ }
+ was_tag = FEZ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = FZA }
+ was_tag = FZA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = FIN }
+ was_tag = FIN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = FLA }
+ was_tag = FLA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LAN }
+ was_tag = LAN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = FLO }
+ was_tag = FLO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = FOI }
+ was_tag = FOI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = FRM }
+ was_tag = FRM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = FOX }
+ was_tag = FOX
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = FKN }
+ was_tag = FKN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = FRI }
+ was_tag = FRI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = FUL }
+ was_tag = FUL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NUB }
+ was_tag = NUB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GAL }
+ was_tag = GAL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GMI }
+ was_tag = GMI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GHR }
+ was_tag = GHR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GRJ }
+ was_tag = GRJ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GUY }
+ was_tag = GUY
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GAZ }
+ was_tag = GAZ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GLE }
+ was_tag = GLE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GEL }
+ was_tag = GEL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GNV }
+ was_tag = GNV
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GEN }
+ was_tag = GEN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GEO }
+ was_tag = GEO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GRM }
+ was_tag = GRM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GHD }
+ was_tag = GHD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KRY }
+ was_tag = KRY
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GNG }
+ was_tag = GNG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GLG }
+ was_tag = GLG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GOC }
+ was_tag = GOC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GDW }
+ was_tag = GDW
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GRK }
+ was_tag = GRK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GOS }
+ was_tag = GOS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GOT }
+ was_tag = GOT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GRA }
+ was_tag = GRA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GZI }
+ was_tag = GZI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GBR }
+ was_tag = GBR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GOL }
+ was_tag = GOL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = YUA }
+ was_tag = YUA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GAM }
+ was_tag = GAM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GUA }
+ was_tag = GUA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GUG }
+ was_tag = GUG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GUJ }
+ was_tag = GUJ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GUR }
+ was_tag = GUR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GWA }
+ was_tag = GWA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ALH }
+ was_tag = ALH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HDY }
+ was_tag = HDY
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HAD }
+ was_tag = HAD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HDR }
+ was_tag = HDR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HDA }
+ was_tag = HDA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HAI }
+ was_tag = HAI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HAT }
+ was_tag = HAT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MHX }
+ was_tag = MHX
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HAM }
+ was_tag = HAM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HSA }
+ was_tag = HSA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HAR }
+ was_tag = HAR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HNI }
+ was_tag = HNI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HTK }
+ was_tag = HTK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HWK }
+ was_tag = HWK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HAU }
+ was_tag = HAU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HAW }
+ was_tag = HAW
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = UHW }
+ was_tag = UHW
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HED }
+ was_tag = HED
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HRZ }
+ was_tag = HRZ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HES }
+ was_tag = HES
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HSC }
+ was_tag = HSC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HIN }
+ was_tag = HIN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HOB }
+ was_tag = HOB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HOD }
+ was_tag = HOD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HJO }
+ was_tag = HJO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HOL }
+ was_tag = HOL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SHL }
+ was_tag = SHL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HLR }
+ was_tag = HLR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HSK }
+ was_tag = HSK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HSE }
+ was_tag = HSE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HSI }
+ was_tag = HSI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HUA }
+ was_tag = HUA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HST }
+ was_tag = HST
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HUN }
+ was_tag = HUN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HUR }
+ was_tag = HUR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HJA }
+ was_tag = HJA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ICE }
+ was_tag = ICE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ICH }
+ was_tag = ICH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ICM }
+ was_tag = ICM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = IDR }
+ was_tag = IDR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = IKE }
+ was_tag = IKE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ILK }
+ was_tag = ILK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ILL }
+ was_tag = ILL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ILI }
+ was_tag = ILI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = IMG }
+ was_tag = IMG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = IME }
+ was_tag = IME
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = INC }
+ was_tag = INC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = IND }
+ was_tag = IND
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ING }
+ was_tag = ING
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = INN }
+ was_tag = INN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = IRQ }
+ was_tag = IRQ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = IRE }
+ was_tag = IRE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MNS }
+ was_tag = MNS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = IRO }
+ was_tag = IRO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ISF }
+ was_tag = ISF
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ISL }
+ was_tag = ISL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ISR }
+ was_tag = ISR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ISK }
+ was_tag = ISK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ITA }
+ was_tag = ITA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ITO }
+ was_tag = ITO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ITZ }
+ was_tag = ITZ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = JFN }
+ was_tag = JFN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = JSL }
+ was_tag = JSL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = JMB }
+ was_tag = JMB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = JMN }
+ was_tag = JMN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = JAN }
+ was_tag = JAN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = JJI }
+ was_tag = JJI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = JAJ }
+ was_tag = JAJ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = JAP }
+ was_tag = JAP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = JAR }
+ was_tag = JAR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = JNP }
+ was_tag = JNP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = JNN }
+ was_tag = JNN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KOJ }
+ was_tag = KOJ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = JPR }
+ was_tag = JPR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = JLV }
+ was_tag = JLV
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NGP }
+ was_tag = NGP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MJZ }
+ was_tag = MJZ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = JIM }
+ was_tag = JIM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = JIN }
+ was_tag = JIN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = JOA }
+ was_tag = JOA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = JOH }
+ was_tag = JOH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = JOL }
+ was_tag = JOL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = JML }
+ was_tag = JML
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = JGD }
+ was_tag = JGD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KBU }
+ was_tag = KBU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KBA }
+ was_tag = KBA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KAC }
+ was_tag = KAC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KAF }
+ was_tag = KAF
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KLH }
+ was_tag = KLH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KAL }
+ was_tag = KAL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KLM }
+ was_tag = KLM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KLP }
+ was_tag = KLP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KLD }
+ was_tag = KLD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KMC }
+ was_tag = KMC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KND }
+ was_tag = KND
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KBO }
+ was_tag = KBO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KGR }
+ was_tag = KGR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KAN }
+ was_tag = KAN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KAQ }
+ was_tag = KAQ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HMI }
+ was_tag = HMI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KRW }
+ was_tag = KRW
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KAR }
+ was_tag = KAR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KRL }
+ was_tag = KRL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KSJ }
+ was_tag = KSJ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MLK }
+ was_tag = MLK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KSH }
+ was_tag = KSH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KSI }
+ was_tag = KSI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KSK }
+ was_tag = KSK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KAT }
+ was_tag = KAT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KTU }
+ was_tag = KTU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KTS }
+ was_tag = KTS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KAA }
+ was_tag = KAA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KAU }
+ was_tag = KAU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KZH }
+ was_tag = KZH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KAZ }
+ was_tag = KAZ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KZB }
+ was_tag = KZB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KED }
+ was_tag = KED
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KLN }
+ was_tag = KLN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KEL }
+ was_tag = KEL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KJH }
+ was_tag = KJH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KER }
+ was_tag = KER
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KRM }
+ was_tag = KRM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KLK }
+ was_tag = KLK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KHD }
+ was_tag = KHD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KHI }
+ was_tag = KHI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KHM }
+ was_tag = KHM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KHO }
+ was_tag = KHO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KRC }
+ was_tag = KRC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KSD }
+ was_tag = KSD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KIC }
+ was_tag = KIC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KIE }
+ was_tag = KIE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KIK }
+ was_tag = KIK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KKC }
+ was_tag = KKC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KID }
+ was_tag = KID
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KIO }
+ was_tag = KIO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KSP }
+ was_tag = KSP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KTB }
+ was_tag = KTB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KIT }
+ was_tag = KIT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KLE }
+ was_tag = KLE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KNI }
+ was_tag = KNI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KMT }
+ was_tag = KMT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KOC }
+ was_tag = KOC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KOH }
+ was_tag = KOH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KOK }
+ was_tag = KOK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KLT }
+ was_tag = KLT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KNG }
+ was_tag = KNG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KON }
+ was_tag = KON
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KNO }
+ was_tag = KNO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KNZ }
+ was_tag = KNZ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KOR }
+ was_tag = KOR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KRA }
+ was_tag = KRA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KUB }
+ was_tag = KUB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KUL }
+ was_tag = KUL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KMN }
+ was_tag = KMN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KUT }
+ was_tag = KUT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LAC }
+ was_tag = LAC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LDK }
+ was_tag = LDK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LAK }
+ was_tag = LAK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LNO }
+ was_tag = LNO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LBV }
+ was_tag = LBV
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LFA }
+ was_tag = LFA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LNA }
+ was_tag = LNA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LXA }
+ was_tag = LXA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LAP }
+ was_tag = LAP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LAR }
+ was_tag = LAR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LTG }
+ was_tag = LTG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LAI }
+ was_tag = LAI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LAU }
+ was_tag = LAU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LEB }
+ was_tag = LEB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LEI }
+ was_tag = LEI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LEN }
+ was_tag = LEN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LON }
+ was_tag = LON
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LNG }
+ was_tag = LNG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LIB }
+ was_tag = LIB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LIE }
+ was_tag = LIE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LIG }
+ was_tag = LIG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LWA }
+ was_tag = LWA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LIP }
+ was_tag = LIP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LPP }
+ was_tag = LPP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LIT }
+ was_tag = LIT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LVA }
+ was_tag = LVA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LIV }
+ was_tag = LIV
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LOA }
+ was_tag = LOA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LOR }
+ was_tag = LOR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LOT }
+ was_tag = LOT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LOU }
+ was_tag = LOU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LUA }
+ was_tag = LUA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LUB }
+ was_tag = LUB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LUC }
+ was_tag = LUC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LND }
+ was_tag = LND
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LDU }
+ was_tag = LDU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LUN }
+ was_tag = LUN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LRI }
+ was_tag = LRI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LUW }
+ was_tag = LUW
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LUX }
+ was_tag = LUX
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MCM }
+ was_tag = MCM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MAD }
+ was_tag = MAD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MAS }
+ was_tag = MAS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MAE }
+ was_tag = MAE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MAG }
+ was_tag = MAG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MGD }
+ was_tag = MGD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MFY }
+ was_tag = MFY
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MAH }
+ was_tag = MAH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MHR }
+ was_tag = MHR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MAI }
+ was_tag = MAI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MAJ }
+ was_tag = MAJ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MJE }
+ was_tag = MJE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MJO }
+ was_tag = MJO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MKS }
+ was_tag = MKS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MKU }
+ was_tag = MKU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MAK }
+ was_tag = MAK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MKP }
+ was_tag = MKP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MAB }
+ was_tag = MAB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MLC }
+ was_tag = MLC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MLG }
+ was_tag = MLG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MSA }
+ was_tag = MSA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = DGL }
+ was_tag = DGL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MAL }
+ was_tag = MAL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MLI }
+ was_tag = MLI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MLS }
+ was_tag = MLS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = JAI }
+ was_tag = JAI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MLW }
+ was_tag = MLW
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MLB }
+ was_tag = MLB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KOI }
+ was_tag = KOI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MAN }
+ was_tag = MAN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MPC }
+ was_tag = MPC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MAR }
+ was_tag = MAR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MRA }
+ was_tag = MRA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MGR }
+ was_tag = MGR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MRE }
+ was_tag = MRE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MRK }
+ was_tag = MRK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MAW }
+ was_tag = MAW
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MAA }
+ was_tag = MAA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MTR }
+ was_tag = MTR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MAT }
+ was_tag = MAT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MAU }
+ was_tag = MAU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MAY }
+ was_tag = MAY
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MNA }
+ was_tag = MNA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MAZ }
+ was_tag = MAZ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KAM }
+ was_tag = KAM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MTH }
+ was_tag = MTH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MKL }
+ was_tag = MKL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MDA }
+ was_tag = MDA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MED }
+ was_tag = MED
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MEI }
+ was_tag = MEI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MEM }
+ was_tag = MEM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MEN }
+ was_tag = MEN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MIR }
+ was_tag = MIR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MSC }
+ was_tag = MSC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MER }
+ was_tag = MER
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MEW }
+ was_tag = MEW
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MEX }
+ was_tag = MEX
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MMI }
+ was_tag = MMI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MIA }
+ was_tag = MIA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CMI }
+ was_tag = CMI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MFL }
+ was_tag = MFL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MIK }
+ was_tag = MIK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MLO }
+ was_tag = MLO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MIN }
+ was_tag = MIN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MNG }
+ was_tag = MNG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MIS }
+ was_tag = MIS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MSG }
+ was_tag = MSG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MIX }
+ was_tag = MIX
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MOD }
+ was_tag = MOD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MDI }
+ was_tag = MDI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MOH }
+ was_tag = MOH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MOL }
+ was_tag = MOL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MBA }
+ was_tag = MBA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MKA }
+ was_tag = MKA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MMA }
+ was_tag = MMA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MNI }
+ was_tag = MNI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MGE }
+ was_tag = MGE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KHA }
+ was_tag = KHA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MPA }
+ was_tag = MPA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MYA }
+ was_tag = MYA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MON }
+ was_tag = MON
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MFA }
+ was_tag = MFA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MBZ }
+ was_tag = MBZ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MVA }
+ was_tag = MVA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MOE }
+ was_tag = MOE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MRI }
+ was_tag = MRI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MOR }
+ was_tag = MOR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MSI }
+ was_tag = MSI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MPH }
+ was_tag = MPH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MUG }
+ was_tag = MUG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MCA }
+ was_tag = MCA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MLH }
+ was_tag = MLH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MUL }
+ was_tag = MUL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = UBV }
+ was_tag = UBV
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MUN }
+ was_tag = MUN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MOS }
+ was_tag = MOS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MSY }
+ was_tag = MSY
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ZIM }
+ was_tag = ZIM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MYS }
+ was_tag = MYS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MZB }
+ was_tag = MZB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NGA }
+ was_tag = NGA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NAG }
+ was_tag = NAG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NAJ }
+ was_tag = NAJ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NJR }
+ was_tag = NJR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NAK }
+ was_tag = NAK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = RFR }
+ was_tag = RFR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NAP }
+ was_tag = NAP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NSA }
+ was_tag = NSA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NTZ }
+ was_tag = NTZ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NTC }
+ was_tag = NTC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NAT }
+ was_tag = NAT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NAH }
+ was_tag = NAH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NVR }
+ was_tag = NVR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NAV }
+ was_tag = NAV
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NAX }
+ was_tag = NAX
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NDO }
+ was_tag = NDO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NEH }
+ was_tag = NEH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NPL }
+ was_tag = NPL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NED }
+ was_tag = NED
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NEV }
+ was_tag = NEV
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NSS }
+ was_tag = NSS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NNG }
+ was_tag = NNG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NVK }
+ was_tag = NVK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NZH }
+ was_tag = NZH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NKO }
+ was_tag = NKO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NOG }
+ was_tag = NOG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NOO }
+ was_tag = NOO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NRM }
+ was_tag = NRM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NHX }
+ was_tag = NHX
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NOL }
+ was_tag = NOL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NOR }
+ was_tag = NOR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NOV }
+ was_tag = NOV
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NBI }
+ was_tag = NBI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NUP }
+ was_tag = NUP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NUM }
+ was_tag = NUM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = OAH }
+ was_tag = OAH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ODA }
+ was_tag = ODA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = OGD }
+ was_tag = OGD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = OGS }
+ was_tag = OGS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = OHK }
+ was_tag = OHK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = OIR }
+ was_tag = OIR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = OJI }
+ was_tag = OJI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = OKA }
+ was_tag = OKA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = OLD }
+ was_tag = OLD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = OMA }
+ was_tag = OMA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ONE }
+ was_tag = ONE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = OEO }
+ was_tag = OEO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ONO }
+ was_tag = ONO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = OPL }
+ was_tag = OPL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ORI }
+ was_tag = ORI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ORL }
+ was_tag = ORL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ORD }
+ was_tag = ORD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ORM }
+ was_tag = ORM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = OSA }
+ was_tag = OSA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = OSH }
+ was_tag = OSH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = OSN }
+ was_tag = OSN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = OTO }
+ was_tag = OTO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = OTM }
+ was_tag = OTM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = OTT }
+ was_tag = OTT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TUR }
+ was_tag = TUR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = OUC }
+ was_tag = OUC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ODH }
+ was_tag = ODH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = OYO }
+ was_tag = OYO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PCH }
+ was_tag = PCH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PCJ }
+ was_tag = PCJ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PAD }
+ was_tag = PAD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PDV }
+ was_tag = PDV
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PGR }
+ was_tag = PGR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PAH }
+ was_tag = PAH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PAL }
+ was_tag = PAL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PLW }
+ was_tag = PLW
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PLB }
+ was_tag = PLB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PTL }
+ was_tag = PTL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PGS }
+ was_tag = PGS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PAN }
+ was_tag = PAN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PAP }
+ was_tag = PAP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PRG }
+ was_tag = PRG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PRD }
+ was_tag = PRD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PAR }
+ was_tag = PAR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PSA }
+ was_tag = PSA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PSS }
+ was_tag = PSS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PTE }
+ was_tag = PTE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PTA }
+ was_tag = PTA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PTT }
+ was_tag = PTT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PAT }
+ was_tag = PAT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PAW }
+ was_tag = PAW
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PEG }
+ was_tag = PEG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PEN }
+ was_tag = PEN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PEO }
+ was_tag = PEO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PEQ }
+ was_tag = PEQ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PRK }
+ was_tag = PRK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PRM }
+ was_tag = PRM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PER }
+ was_tag = PER
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PEU }
+ was_tag = PEU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PGA }
+ was_tag = PGA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PHA }
+ was_tag = PHA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PIC }
+ was_tag = PIC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PIM }
+ was_tag = PIM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PIR }
+ was_tag = PIR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PIS }
+ was_tag = PIS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = POL }
+ was_tag = POL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PLT }
+ was_tag = PLT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = POM }
+ was_tag = POM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PRB }
+ was_tag = PRB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PRY }
+ was_tag = PRY
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = POR }
+ was_tag = POR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = POT }
+ was_tag = POT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PTG }
+ was_tag = PTG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = POW }
+ was_tag = POW
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ACH }
+ was_tag = ACH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BPR }
+ was_tag = BPR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PRO }
+ was_tag = PRO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PSK }
+ was_tag = PSK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PUE }
+ was_tag = PUE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PUN }
+ was_tag = PUN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = QAR }
+ was_tag = QAR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = QAS }
+ was_tag = QAS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = QIC }
+ was_tag = QIC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = QIN }
+ was_tag = QIN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = QNG }
+ was_tag = QNG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = QOM }
+ was_tag = QOM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = QUE }
+ was_tag = QUE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = QTO }
+ was_tag = QTO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = QUI }
+ was_tag = QUI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = RAG }
+ was_tag = RAG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = RJK }
+ was_tag = RJK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = RJP }
+ was_tag = RJP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = RAM }
+ was_tag = RAM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = RAS }
+ was_tag = RAS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = RTT }
+ was_tag = RTT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = RVA }
+ was_tag = RVA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = REB }
+ was_tag = REB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = REG }
+ was_tag = REG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CMP }
+ was_tag = CMP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = RHA }
+ was_tag = RHA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = RIG }
+ was_tag = RIG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = RMP }
+ was_tag = RMP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ROM }
+ was_tag = ROM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = RMN }
+ was_tag = RMN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = RSO }
+ was_tag = RSO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ROT }
+ was_tag = ROT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = RZI }
+ was_tag = RZI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = RUG }
+ was_tag = RUG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = RUM }
+ was_tag = RUM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = RUP }
+ was_tag = RUP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = RUS }
+ was_tag = RUS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = RWA }
+ was_tag = RWA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = RYA }
+ was_tag = RYA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = RYU }
+ was_tag = RYU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SDY }
+ was_tag = SDY
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SKA }
+ was_tag = SKA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SLE }
+ was_tag = SLE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SAL }
+ was_tag = SAL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SZO }
+ was_tag = SZO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SLZ }
+ was_tag = SLZ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SBP }
+ was_tag = SBP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SMB }
+ was_tag = SMB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SMI }
+ was_tag = SMI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SAM }
+ was_tag = SAM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SME }
+ was_tag = SME
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SAR }
+ was_tag = SAR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SPI }
+ was_tag = SPI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SYG }
+ was_tag = SYG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SRU }
+ was_tag = SRU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = STK }
+ was_tag = STK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SAT }
+ was_tag = SAT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SAV }
+ was_tag = SAV
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SAX }
+ was_tag = SAX
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SCA }
+ was_tag = SCA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SWI }
+ was_tag = SWI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SCO }
+ was_tag = SCO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BTI }
+ was_tag = BTI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SEN }
+ was_tag = SEN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SER }
+ was_tag = SER
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SHM }
+ was_tag = SHM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SST }
+ was_tag = SST
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SHR }
+ was_tag = SHR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SHA }
+ was_tag = SHA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SHY }
+ was_tag = SHY
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SOA }
+ was_tag = SOA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SBA }
+ was_tag = SBA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SMZ }
+ was_tag = SMZ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SRV }
+ was_tag = SRV
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SHN }
+ was_tag = SHN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SHO }
+ was_tag = SHO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SHU }
+ was_tag = SHU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CSH }
+ was_tag = CSH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SAK }
+ was_tag = SAK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SIA }
+ was_tag = SIA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SIB }
+ was_tag = SIB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SIC }
+ was_tag = SIC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SIE }
+ was_tag = SIE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SKK }
+ was_tag = SKK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SIL }
+ was_tag = SIL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SND }
+ was_tag = SND
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SIO }
+ was_tag = SIO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SRH }
+ was_tag = SRH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SRM }
+ was_tag = SRM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SIS }
+ was_tag = SIS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SLN }
+ was_tag = SLN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SLO }
+ was_tag = SLO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SMO }
+ was_tag = SMO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SOO }
+ was_tag = SOO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SOF }
+ was_tag = SOF
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SFA }
+ was_tag = SFA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SOK }
+ was_tag = SOK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SOL }
+ was_tag = SOL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SOM }
+ was_tag = SOM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SON }
+ was_tag = SON
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SNA }
+ was_tag = SNA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SOR }
+ was_tag = SOR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SYO }
+ was_tag = SYO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SPA }
+ was_tag = SPA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SPL }
+ was_tag = SPL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = STA }
+ was_tag = STA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = STE }
+ was_tag = STE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = STY }
+ was_tag = STY
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SUK }
+ was_tag = SUK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SUL }
+ was_tag = SUL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SUN }
+ was_tag = SUN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SRG }
+ was_tag = SRG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SOS }
+ was_tag = SOS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SUS }
+ was_tag = SUS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SWA }
+ was_tag = SWA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ZAN }
+ was_tag = ZAN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SWE }
+ was_tag = SWE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SYN }
+ was_tag = SYN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = SYR }
+ was_tag = SYR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TAB }
+ was_tag = TAB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TBR }
+ was_tag = TBR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TFL }
+ was_tag = TFL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TAH }
+ was_tag = TAH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TAN }
+ was_tag = TAN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TAI }
+ was_tag = TAI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TKD }
+ was_tag = TKD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TAK }
+ was_tag = TAK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TNG }
+ was_tag = TNG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TNJ }
+ was_tag = TNJ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TUA }
+ was_tag = TUA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TNK }
+ was_tag = TNK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TAR }
+ was_tag = TAR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TAU }
+ was_tag = TAU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TEA }
+ was_tag = TEA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TLG }
+ was_tag = TLG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TEN }
+ was_tag = TEN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TEO }
+ was_tag = TEO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TER }
+ was_tag = TER
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TTT }
+ was_tag = TTT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TET }
+ was_tag = TET
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TEU }
+ was_tag = TEU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TEX }
+ was_tag = TEX
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PLC }
+ was_tag = PLC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LOI }
+ was_tag = LOI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = FEO }
+ was_tag = FEO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TTL }
+ was_tag = TTL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = THU }
+ was_tag = THU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TIB }
+ was_tag = TIB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TID }
+ was_tag = TID
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TMB }
+ was_tag = TMB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TIM }
+ was_tag = TIM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TIO }
+ was_tag = TIO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TRT }
+ was_tag = TRT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TIR }
+ was_tag = TIR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TIW }
+ was_tag = TIW
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TLA }
+ was_tag = TLA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TLX }
+ was_tag = TLX
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TLC }
+ was_tag = TLC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TKI }
+ was_tag = TKI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TKG }
+ was_tag = TKG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TON }
+ was_tag = TON
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TDO }
+ was_tag = TDO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TOG }
+ was_tag = TOG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TOK }
+ was_tag = TOK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TOR }
+ was_tag = TOR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TOT }
+ was_tag = TOT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TGT }
+ was_tag = TGT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TOU }
+ was_tag = TOU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TRS }
+ was_tag = TRS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TRA }
+ was_tag = TRA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TRE }
+ was_tag = TRE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TNT }
+ was_tag = TNT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TRI }
+ was_tag = TRI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TRP }
+ was_tag = TRP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TPR }
+ was_tag = TPR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TTI }
+ was_tag = TTI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TBK }
+ was_tag = TBK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TPA }
+ was_tag = TPA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TPQ }
+ was_tag = TPQ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TSC }
+ was_tag = TSC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TVE }
+ was_tag = TVE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TTS }
+ was_tag = TTS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TYO }
+ was_tag = TYO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TRY }
+ was_tag = TRY
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TYR }
+ was_tag = TYR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = UES }
+ was_tag = UES
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = UKR }
+ was_tag = UKR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ULM }
+ was_tag = ULM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ULS }
+ was_tag = ULS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CAM }
+ was_tag = CAM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = URB }
+ was_tag = URB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = USA }
+ was_tag = USA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = UTR }
+ was_tag = UTR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = UTS }
+ was_tag = UTS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = UTN }
+ was_tag = UTN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = VAL }
+ was_tag = VAL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = VNL }
+ was_tag = VNL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = VND }
+ was_tag = VND
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = VNZ }
+ was_tag = VNZ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = VEN }
+ was_tag = VEN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = VER }
+ was_tag = VER
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = VRM }
+ was_tag = VRM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = VRN }
+ was_tag = VRN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = VIE }
+ was_tag = VIE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = VIJ }
+ was_tag = VIJ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = VIL }
+ was_tag = VIL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = VIT }
+ was_tag = VIT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = VOL }
+ was_tag = VOL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = WAD }
+ was_tag = WAD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = WGD }
+ was_tag = WGD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = WAI }
+ was_tag = WAI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = WLS }
+ was_tag = WLS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = WAL }
+ was_tag = WAL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = WAM }
+ was_tag = WAM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = WKA }
+ was_tag = WKA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = WAR }
+ was_tag = WAR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = WLY }
+ was_tag = WLY
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = WEN }
+ was_tag = WEN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = WES }
+ was_tag = WES
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = WSI }
+ was_tag = WSI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = WIC }
+ was_tag = WIC
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = WCY }
+ was_tag = WCY
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = WOL }
+ was_tag = WOL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = WUU }
+ was_tag = WUU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = WUR }
+ was_tag = WUR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = WRU }
+ was_tag = WRU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = WBG }
+ was_tag = WBG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = XAL }
+ was_tag = XAL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CXI }
+ was_tag = CXI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = XIU }
+ was_tag = XIU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = YAK }
+ was_tag = YAK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = YMN }
+ was_tag = YMN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = YAN }
+ was_tag = YAN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = YNU }
+ was_tag = YNU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = YAO }
+ was_tag = YAO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = YAQ }
+ was_tag = YAQ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KAS }
+ was_tag = KAS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = YAR }
+ was_tag = YAR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = YAS }
+ was_tag = YAS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = YAT }
+ was_tag = YAT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = YZD }
+ was_tag = YZD
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = YEM }
+ was_tag = YEM
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MYR }
+ was_tag = MYR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CYI }
+ was_tag = CYI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = YOK }
+ was_tag = YOK
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = YKT }
+ was_tag = YKT
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = YOL }
+ was_tag = YOL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = YUE }
+ was_tag = YUE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ZAF }
+ was_tag = ZAF
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ZND }
+ was_tag = ZND
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ZAZ }
+ was_tag = ZAZ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ZAP }
+ was_tag = ZAP
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ZZZ }
+ was_tag = ZZZ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = NZL }
+ was_tag = NZL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CZH }
+ was_tag = CZH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ZUL }
+ was_tag = ZUL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ZUN }
+ was_tag = ZUN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ZNI }
+ was_tag = ZNI
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = D00 }
+ was_tag = D00
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = D01 }
+ was_tag = D01
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = D02 }
+ was_tag = D02
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = D03 }
+ was_tag = D03
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = D04 }
+ was_tag = D04
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = D05 }
+ was_tag = D05
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = D06 }
+ was_tag = D06
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = D07 }
+ was_tag = D07
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = D08 }
+ was_tag = D08
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = D09 }
+ was_tag = D09
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GER }
+ was_tag = GER
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BYZ }
+ was_tag = BYZ
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = LAE }
+ was_tag = LAE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TUN }
+ was_tag = TUN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GLH }
+ was_tag = GLH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = DLH }
+ was_tag = DLH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ETH }
+ was_tag = ETH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HAB }
+ was_tag = HAB
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = FRA }
+ was_tag = FRA
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = ENG }
+ was_tag = ENG
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = BAV }
+ was_tag = BAV
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = FRN }
+ was_tag = FRN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = HAN }
+ was_tag = HAN
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = GRE }
+ was_tag = GRE
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = PRU }
+ was_tag = PRU
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = KUR }
+ was_tag = KUR
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = TUS }
+ was_tag = TUS
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = MCH }
+ was_tag = MCH
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = CRO }
+ was_tag = CRO
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}
+AND = {
+ NOT = { tag = DAL }
+ was_tag = DAL
+ OR = { ai = no
+       AND = { ai = yes
+               has_global_flag = ai_will_change_color
+             }
+       }
+}

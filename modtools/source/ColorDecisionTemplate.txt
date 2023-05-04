@@ -1,0 +1,21 @@
+country_decisions = {
+	change_back_color_nation = {
+		major = yes
+		potential = {
+			OR = {
+			
+
+			}
+			NOT = { has_country_flag = has_overriden_color_flag }
+		}
+		allow = {
+		}
+		effect = {
+
+		}
+		ai_will_do = {
+			factor = 2
+		}
+		ai_importance = 400
+	}
+}
